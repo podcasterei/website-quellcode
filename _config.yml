@@ -1,0 +1,19 @@
+title: Podcasterei
+email: stefan.haslinger@informatom.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: "http://podcasterei.github.io"
+# url: "http://localhost:4000"
+twitter_username: podcasterei
+github_username:  podcasterei
+
+# Build settings
+markdown: kramdown
+monthly_archive:
+  path: "archiv"
+
+# disqus_shortname: podcasterei
+# disqus_developer: 0 # 1 / 0
