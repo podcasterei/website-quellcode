@@ -1,0 +1,34 @@
+---
+layout: post
+title: 5.Meetup
+date:   2016-09-16 08:00:00 +0200
+---
+
+## Organisatorisches
+
+* Moderation: Stefan
+* Danke an [Sektor5](http://www.sektor5.at/) für Hosting
+* Teamerweiterung, Daniel bleibt uns weiter erhalten
+* Domäne\\
+  Mail <mail@podcasterei.at> erreicht uns alle\\
+  <melanie@podcasterei.at>, <stefan@podcasterei.at>, <daniel@podcasterei.at>
+* Webseite: rudimentär vorhanden, wird in der nächsten Zeit ausgebaut\\
+  Dank an Tom Lohninger für die Übertragung der Domäne!
+
+## Termine
+  
+- 14.bis 16.Oktober: [SUBSCRIBE 8](http://das-sendezentrum.de/subscribe/sub8/) in München<br/>
+  Ticketverkauf ist angelaufen
+
+
+## Talks (je max. 5–15 Minuten)
+
+* Florian: Lean Startup meets Podcast Launch - Learnings from Launching 
+  http://milestonehunters.com/podcast 
+* Florian Simon: Interdisziplinäre Fallkonferenzen kompakt - Podcast von Studierenden für 
+  Studierende 
+* Stefan: Projekt [Panoptikum](https://panoptikum.io) - oder warum wir noch eine Podcasting 
+  Plattform brauchen 
+
+Anschließend Zeit für weiteren Ideenaustausch & Planung künftiger Themenschwerpunkte in den 
+MeetUps.

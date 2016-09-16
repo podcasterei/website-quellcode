@@ -3,7 +3,7 @@
 $navbar-background-color:                    $mint-dark !default;
 $navbar-background-color-active:             $mint-light !default;
 
-$navbar-font-color:                          $white !default;
+$navbar-font-color:                          $black !default;
 $navbar-item-background-color-hover:         $navbar-background-color-active !default;
 
 $navbar-inverse-background-color:            $black !default;
@@ -41,7 +41,7 @@ $navbar-inverse-background-color:            $black !default;
       }
       & .navbar-text,
       & .navbar-nav > li > a {
-          color: darken($navbar-background-color, 15%);
+          color: darken($navbar-background-color, 35%);
       }
       & .navbar-nav > li > a:hover,
       & .navbar-nav > li > a:focus {

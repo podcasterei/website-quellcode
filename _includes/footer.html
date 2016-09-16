@@ -3,20 +3,26 @@
     <div class="clearfix">
       <dl class="footer-nav">
         <dt class="nav-title">Meta</dt>
-        <dd class="nav-item"><a href="{{ site.url }}/impressum">Impressum</a></dd>
+        <dd class="nav-item">
+	  <a href="{{ site.url }}/impressum">Impressum</a>
+	</dd>
       </dl>
 
       <dl class="footer-nav">
         <dt class="nav-title">Letzte Posts</dt>
         {% for post in site.posts limit:5 %}
-          <dd class="nav-item"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 35 }}</a></dd>
+          <dd class="nav-item">
+	    <a href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title | truncate: 35 }}
+	    </a>
+	  </dd>
         {% endfor %}
       </dl>
 
       <dl class="footer-nav">
-        <dt class="nav-title">Und was hierhin?</dt>
+        <dt class="nav-title">Anmelden & nächstes Meetup</dt>
         <dd class="nav-item">
-          <a href="{{ site.url }}/kontakt">Ein Link</a>
+          <a href="http://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/">Meetup Gruppe</a>
         </dd>
       </dl>
 
