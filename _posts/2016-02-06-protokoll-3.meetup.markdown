@@ -1,0 +1,174 @@
+---
+layout: post
+title: Protokoll 3.Meetup
+date: 2016-02-07 08:00:00 +0200
+author: Melanie Bartos
+---
+
+
+## Protokoll des Podcasting MeetUp Österreich #3
+
+am 06.02.2016
+im [metalab](https://metalab.at/), Wien
+
+Am Samstag, 6. Februar, fand in Wien das mittlerweile 3. Treffen podcastender und 
+podcastinteressierter Menschen aus Österreich statt. Mit mehr als 20 TeilnehmerInnen stellten 
+wir einen neuen BesucherInnenrekord auf - kombiniert mit tollen Vorträgen, Diskussionen und Ideen, 
+die den zeitlichen Rahmen deutlich sprengten. Daniel und ich freuen uns riesig über das Interesse 
+und auf alle weiteren Treffen.
+
+## TeilnehmerInnen (in Reihenfolge der Vorstellung)
+
+
+* Podcast Fetznschädl _(bitte gerne Namen ergänzen!)_
+* Matthias Bendel | Podcast: [IT-Keller](https://it-keller.at/podcast) | 
+  Twitter: [@_mabe](https://twitter.com/_mabe) und [@IT_Keller](https://twitter.com/it_keller)
+* [Herbert Gnauer](http://no-na.net/) | Radio Orange | 
+  Twitter: [@HerbertGnauer](https://twitter.com/HerbertGnauer)
+* [Ines Häufler](http://www.ineshaeufler.com/) | 
+  [@ineshaeufler](https://sendegate.de/users/ineshaeufler) | 
+  [schreiben.hören - Der Podcast über literarische Arbeitsweisen.](https://soundcloud.com/ines-h-ufler/schreiben-h-ren-episode-001) | 
+  Twitter:  [@ineshaeufler](https://twitter.com/ineshaeufler)
+* Stephanie Schütze | Lektorin bei [GeekTalk](http://geektalk.ch/) | 
+  Twitter: [@Lirithiell](https://twitter.com/Lirithiell)
+* Jan Gruber | 
+  [@Finariel](https://sendegate.de/users/finariel) | 
+  Podcast: [GeekTalk](http://geektalk.ch/) | 
+  Twitter: [@Finariel](https://twitter.com/Finariel)
+* [Mac Lemon](https://maclemon.at/) | 
+  [@MacLemon](https://sendegate.de/users/maclemon) | 
+  MetaLab | 
+  Twitter: [@MacLemon](https://twitter.com/MacLemon)
+* Christian Berger | Freie Radios, [Literadio](http://literadio.org/), Schulradio | 
+  Twitter:[ @aufdraht](https://twitter.com/aufdraht)
+* [Lothar Bodingbauer](http://www.apostrophe.at/) | 
+  [@lobodingbauer](https://sendegate.de/users/lobodingbauer)  | 
+  [Physikalische Soiree](http://www.physikalischesoiree.at/) | 
+  [Lob und Tadel](http://www.lobundtadel.eu/) | 
+  [Bienengespräche](http://www.bienenpodcast.at/) | 
+  [The Macher Report](http://themacher.report/) | 
+  Twitter: [@lobodingbauer](https://twitter.com/LoBodingbauer) | 
+  [@themacherreport](https://twitter.com/themacherreport)
+* Tim Walder | 
+  Podcasthörer
+* [Annemarie Harant](http://www.erdbeerwoche.com/) | 
+  Podcast:[ Tonspur N](https://soundcloud.com/tonspur-n) | 
+  Twitter: [@AnnemarieHarant](https://twitter.com/AnnemarieHarant)
+* [Florian Simon](http://symptomatis.ch/) | 
+  [@floriansimon](https://sendegate.de/users/floriansimon) | 
+  Podcast zu Med-Studium in Planung | 
+  Twitter: [@floriansimon](https://twitter.com/floriansimon)
+* Thomas Witzer | 
+  [@tweezerAT](https://sendegate.de/users/tweezerat) | 
+  Podcasts: [Gabelbissen](http://gabelbissen.at/) & 
+  [Sprechgröstl](http://sprechgroestl.at/), 
+  Twitter: [@tweezerAT](https://twitter.com/tweezerAT)
+* [Jana](http://zuckerbaeckerei.com/) | 
+  Hörerin | 
+  Twitter: [@jasowies_o](https://twitter.com/jasowies_o)
+* Hari List | 
+  Film-Podcaster [fortsetzung.tv](http://fortsetzung.tv/) | 
+  Twitter: [@HariLi](https://twitter.com/HariLi)
+* Anna Geiger | 
+  [@Anna](https://sendegate.de/users/anna) | 
+  Podcast: [VermischtesFM](http://namenlos.media/) | 
+  Twitter: [@VermischtesAG](https://twitter.com/VermischtesAG)
+* Horst Jens | 
+  [@horstjens](https://sendegate.de/users/horstjens) | 
+  [Biertaucher](http://spielend-programmieren.at/de:podcast:biertaucher:start) | 
+  Twitter:  [@horstjens](https://twitter.com/horstjens)
+* Daniel Hager | 
+  [@Smart](https://sendegate.de/users/smart) | 
+  Hörer | 
+  Twitter: [@dahager](https://twitter.com/dahager)
+* [Stefan Haslinger](http://www.informatom.com/) | 
+  [@informatom](https://sendegate.de/users/informatom) | 
+  Podcast: [Biertaucher](http://spielend-programmieren.at/de:podcast:biertaucher:start) | 
+  Twitter: [@informatom](https://twitter.com/informatom)
+* Anna Masoner | 
+  Radiomacherin Ö1 und FM4 | 
+  Twitter: [@annamasoner](https://twitter.com/AnnaMasoner)
+* Gregor Ruttner | 
+  [@gregor_r](https://sendegate.de/users/gregor_r) | 
+  Theaterpädgoge BiondekBühne Baden | 
+  Twitter: [@gregor_r](https://twitter.com/gregor_r)
+* Dominik Bergthaler | 
+  [@master_burn](https://sendegate.de/users/master_burn) | 
+  Podcast: [GET started Podcast](http://get.started.at/) | 
+  Twitter: [@master_burn](https://twitter.com/master_burn)  - vielen Dank für das Protokoll!
+
+Auf Einladung von:
+
+* Daniel Meßner | 
+  [@meszner](https://sendegate.de/users/meszner) | 
+  Podcasts: [Zeitsprung](http://zeitsprung.fm/) , 
+  [Coding History](http://codinghistory.com/) | 
+  Twitter: [@meszner](https://twitter.com/meszner)
+* Melanie Bartos | 
+  [@melanie](https://sendegate.de/users/melanie) | 
+  Podcast: [Zeit für Wissenschaft](http://www.uibk.ac.at/podcast/zeit/) , 
+  [Podunion Magazin](http://podunion.com/podunion-podcast/magazin) | 
+  Twitter: [@melaniebartos](https://twitter.com/melaniebartos)
+
+* Alle Mitschnitte der Talks findet ihr hier. Solltet ihr zur Eingabe eines Passwortes 
+  aufgefordert werden, einfach "guest" und ohne Passwort bestätigen.
+
+**Hausmeisterei:**
+
+* Aus einer #-Umfrage ging **#podcastAT** als Sieger hervor.
+
+* Aufzeichnung: Vom Live-Streaming werden wir unter anderem aufgrund der Bandbreiten-Situation 
+  im Metalab absehen. Wir haben uns darauf geeinigt, bzgl. der Aufnahmen in eine Testphase zu 
+  gehen. Bei diesen Meetup haben wir alle Talks aufgenommen und werden sie über ftp als Links 
+  zur Verfügung stellen. Das persönliche Treffen vor Ort soll aber immer im Vordergrund stehen - 
+  und ist eigentlich Sinn der Sache.
+
+* **Die Links zu den jeweiligen Mitschnitten findet ihr bei der Kurzbeschreibung.**
+
+## Talk 1 - Lothar Bodingbauer
+Gespräch oder Interview? 
+Lothar hat uns auf sehr interessante Weise auf eine Reise durch seine Überlegungen zum 
+Fragenstellen mitgenommen. Hier der Link zu seinen Handouts: <http://www.apostrophe.at/archives/8962>
+Sein Spielplatz für Interviews findet sich hier: <http://themacher.report/>
+
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/lothar_podcastAT_06-02-16.mp3)
+
+## Lightning Talks:
+
+1. Tonspur N - Annemarie Harant: Über die Entstehung des Podcasts 
+[Tonspur N](https://soundcloud.com/tonspur-n) zu den Themen nachhaltige Entwicklung, Corporate 
+Social Responsibility (CSR) und Social Entrepreneurship berichtete Annemarie. Sie betreibt 
+dieses Format gemeinsam mit [@RomanMesicek](https://sendegate.de/users/romanmesicek). \\
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/annemarie_podcastAT_06-02-16.mp3)
+2. Horst Jens vom Biertaucher-Podcast hat seine Idee zum Austausch und Verlinken von Teasern 
+vorgestellt. Hier geht's zu den Details dazu: <https://sendegate.de/t/podcast-teaser-austauschen-und-verlinken/2670>\\
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/horst_podcastAT_06-02-16.mp3)
+3. Podcasts und Theater: [@gregor_r](https://sendegate.de/users/gregor_r)  nutzte seine 5 Minuten 
+für 5 Ideen zu Potenzialen von Podcasts im Theaterbereich \\
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/gregor_podcastAT_06-02-16.mp3)
+4. Octopod - Static Side Generator für Podcasts: [@informatom](https://sendegate.de/users/gregor_r) 
+präsentierte uns seine Weiterentwicklung, github-Link: <https://github.com/pattex/octopod>\\
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/stefan_podcastAT_06-02-16.mp3)
+5. Mikrofonüberblick: Dominik [@master_burn](https://sendegate.de/users/master_burn) ermöglichte 
+uns einen Einblick in die Vielfalt der verschiedenen Mikrofonarten. Hier der Link zu seiner 
+Präsentation: <https://t.co/oSIx9co3tA>\\
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/dominik_podcastAT_06-02-16.mp3)
+
+## Talk 2 - Herbert Gnauer
+
+Freie Radios und Podcasts
+
+Im "[Literadio Lausch-Fest](http://stream.aufdraht.org/)" gibt es die Möglichkeit, 
+verschiedene Sendungen zu literaturbezogenen Themen in einem Stream zu verfolgen. 
+Außerdem Thema: PodcasterInnen - RadiomacherInnen - Überschneidungen?
+[Link zum Mitschnitt (mp3)](https://www2.uibk.ac.at/downloads/c115/meetup_at/herbert_podcastAT_06-02-16.mp3)
+
+<hr/>
+
+Zum Abschluss führte [@MacLemon](https://sendegate.de/users/maclemon) noch alle Interessierten 
+durch das Metalab. Danke!
+
+Das nächste Treffen wird Anfang April stattfinden. Wir sind für Themenvorschläge jederzeit 
+gerne offen. Jede/r, der/die Lust hat, etwas beizutragen oder nachzufragen - einfach melden!
+
+**Danke** fürs Kommen und euer Interesse!

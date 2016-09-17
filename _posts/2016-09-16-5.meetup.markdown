@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 5.Meetup
-date:   2016-09-16 08:00:00 +0200
+date: 2016-09-16 08:00:00 +0200
+author: Stefan Haslinger
 ---
 
 ## Organisatorisches
@@ -14,6 +15,8 @@ date:   2016-09-16 08:00:00 +0200
   <melanie@podcasterei.at>, <stefan@podcasterei.at>, <daniel@podcasterei.at>
 * Webseite: rudimentär vorhanden, wird in der nächsten Zeit ausgebaut\\
   Dank an Tom Lohninger für die Übertragung der Domäne!
+* Wir haben nun auch einen [Slack Channel](https://podcasterei.slack.com)\\
+  Klick Dir Deine [persönliche Einladung](http://podcasterei.herokuapp.com/)!
 
 ## Termine
   

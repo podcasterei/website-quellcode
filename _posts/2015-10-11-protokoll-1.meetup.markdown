@@ -1,0 +1,33 @@
+---
+layout: post
+title: Protokoll 1.Meetup
+date: 2015-10-11 08:00:00 +0200
+author: Melanie Bartos
+---
+
+Bei unserem ersten Treffen am 10. Oktober stand ein gegenseitiges Kennenlernen und Austauschen 
+im Vordergrund. Wir hatten uns zwar einige „Tagesordnungspunkte“ vorgenommen, aber dem lockeren 
+Plaudern wurde dann doch der Vorzug gegeben. :smile:
+
+Einige Punkte, die bei unseren künftigen Treffen Thema sein könnten, wurden in der Vorstellungsrunde 
+und in verschiedenen Gesprächen aber dennoch auf die Agenda gebracht. Ich dachte mir, dass ich hier 
+einmal einige Punkte zusammenfasse, um sie ein bisschen im Auge zu behalten. Besonders interessant 
+könnte das ja vielleicht auch für jene sein, die nicht da waren und (hoffentlich) noch kommen werden.
+
+* Technische Fragen zu Aufnahme, Schnitt und Veröffentlichung im Web (und zwar für AnfängerInnen UND 
+  Fortgeschrittene; [@master_burn](https://sendegate.de/users/master_burn) hatte z.B. seine 
+  komplette Ausrüstung zum Entdecken und Erklären dabei)
+* Zielpublikum: Wer ist das eigentlich und wie können wir es erreichen?
+* Austausch über „Positionierung“ in Österreich: zum Hören motivieren – Podcasts bekannter machen
+* Themen: Podcast-Ideen besprechen, vl. auch anregen und über die Themenvielfalt nachdenken
+* Kapitelmarken, Shownotes und Metadaten zu den Podcast-Episoden
+* Weitere Treffen: Regelmäßigkeit des Podcasting MeetUps Österreich; ein Barcamp als "Zukunftsvision";
+* Und ein Punkt liegt mir noch besonders am Herzen: Anna Masoner und ich waren die einzigen Frauen 
+  in der Männerrunde (insgesamt 14 Teilnehmer waren wir, wenn ich das richtig im Kopf habe). 
+  *Österreichs Podcasterinnen, wo seid ihr?*
+
+Das wären jetzt einige Punkte, an die ich mich erinnere. Kann natürlich sehr gerne (und 
+hoffentlich) ergänzt werden. Ich freue mich jedenfalls schon auf weitere Treffen!
+
+Liebe Grüße,
+Melanie
