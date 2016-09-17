@@ -2,31 +2,75 @@
 layout: post
 title: Protokoll 1.Meetup
 date: 2015-10-11 08:00:00 +0200
-author: Melanie Bartos
+author: Melanie Bartos und Daniel Meßner
 ---
 
-Bei unserem ersten Treffen am 10. Oktober stand ein gegenseitiges Kennenlernen und Austauschen 
-im Vordergrund. Wir hatten uns zwar einige „Tagesordnungspunkte“ vorgenommen, aber dem lockeren 
+Das erste Treffen des Podcasting Meetups ist vorbei! Wir hatten die Idee, die Dokumentation der
+Treffen über das Sendegate zu machen
+(<http://www.meetup.com/de/Podcasting-Meetup-Osterreich/events/224921896/)>. Ich öffne daher
+mal diesen Thread, in dem wir für jedes Treffen einen Wiki-Eintrag anlegen könnten mit den
+Teilnehmer/innen + kurzer Dokumentation.
+
+**Teilnehmer/innen**
+
+* Teilnehmer/in |
+  Twitter |
+  Podcast
+* Daniel Meßner |
+  [@meszner](https://www.twitter.com/meszner) |
+  [Zeitsprung](http://zeitsprung.fm) |
+  [Coding History](http://codinghistory.com) |
+  [Stimmen der Kulturwissenschaften](http://stimmen.univie.ac.at)
+- Andre Steingress |
+  [@asteingr](https://www.twitter.com/asteingr) |
+  [DTR.fm](http://dtr.fm) |
+  Datenpaket (retired)
+- Thomas Einwaller |
+  [@tompson](https://www.twitter.com/tompson) |
+  [DTR.fm](http://dtr.fm)
+- Melanie Bartos |
+  [@melaniebartos](https://www.twitter.com/melaniebartos) |
+  [Zeit für Wissenschaft](http://www.uibk.ac.at/podcast/zeit/) |
+  [Podunion Magazin](http://podunion.com/podunion-podcast/magazin)
+- Lothar Bodingbauer |
+  [@lobodingbauer](https://www.twitter.com/lobodingbauer) |
+  [Physikalische Soiree](http://www.physikalischesoiree.at) |
+  [Lob und Tadel](http://www.lobundtadel.eu) |
+  [Bienengespräche](http://www.bienenpodcast.at)
+- Helmut Haberl |
+  [@elektrozwerg](https://www.twitter.com/elektrozwerg) |
+  [XTalkCast](http://www.x-t-c.at)
+- Dominik Bergthaler |
+  [@master_burn](https://www.twitter.com/master_burn) |
+  Get Started
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr">Schön war&#39;s, das 1. Podcasting MeetUp AUT! Nächster Termin im Dez., Doku: <a href="https://t.co/8fuNWxFIE9">https://t.co/8fuNWxFIE9</a> Danke, <a href="https://twitter.com/meszner">@meszner</a>! <a href="http://t.co/glKqGkpNct">pic.twitter.com/glKqGkpNct</a></p>&mdash; Melanie Bartos (@melaniebartos) <a href="https://twitter.com/melaniebartos/status/653176404700463104">11. Oktober 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![]({{ site.url }}/img/bild2.jpg){:width="500"}
+
+Bei unserem ersten Treffen am 10. Oktober stand ein gegenseitiges Kennenlernen und Austauschen
+im Vordergrund. Wir hatten uns zwar einige „Tagesordnungspunkte“ vorgenommen, aber dem lockeren
 Plaudern wurde dann doch der Vorzug gegeben. :smile:
 
-Einige Punkte, die bei unseren künftigen Treffen Thema sein könnten, wurden in der Vorstellungsrunde 
-und in verschiedenen Gesprächen aber dennoch auf die Agenda gebracht. Ich dachte mir, dass ich hier 
-einmal einige Punkte zusammenfasse, um sie ein bisschen im Auge zu behalten. Besonders interessant 
+Einige Punkte, die bei unseren künftigen Treffen Thema sein könnten, wurden in der Vorstellungsrunde
+und in verschiedenen Gesprächen aber dennoch auf die Agenda gebracht. Ich dachte mir, dass ich hier
+einmal einige Punkte zusammenfasse, um sie ein bisschen im Auge zu behalten. Besonders interessant
 könnte das ja vielleicht auch für jene sein, die nicht da waren und (hoffentlich) noch kommen werden.
 
-* Technische Fragen zu Aufnahme, Schnitt und Veröffentlichung im Web (und zwar für AnfängerInnen UND 
-  Fortgeschrittene; [@master_burn](https://sendegate.de/users/master_burn) hatte z.B. seine 
+* Technische Fragen zu Aufnahme, Schnitt und Veröffentlichung im Web (und zwar für AnfängerInnen UND
+  Fortgeschrittene; [@master_burn](https://sendegate.de/users/master_burn) hatte z.B. seine
   komplette Ausrüstung zum Entdecken und Erklären dabei)
 * Zielpublikum: Wer ist das eigentlich und wie können wir es erreichen?
 * Austausch über „Positionierung“ in Österreich: zum Hören motivieren – Podcasts bekannter machen
 * Themen: Podcast-Ideen besprechen, vl. auch anregen und über die Themenvielfalt nachdenken
 * Kapitelmarken, Shownotes und Metadaten zu den Podcast-Episoden
 * Weitere Treffen: Regelmäßigkeit des Podcasting MeetUps Österreich; ein Barcamp als "Zukunftsvision";
-* Und ein Punkt liegt mir noch besonders am Herzen: Anna Masoner und ich waren die einzigen Frauen 
-  in der Männerrunde (insgesamt 14 Teilnehmer waren wir, wenn ich das richtig im Kopf habe). 
+* Und ein Punkt liegt mir noch besonders am Herzen: Anna Masoner und ich waren die einzigen Frauen
+  in der Männerrunde (insgesamt 14 Teilnehmer waren wir, wenn ich das richtig im Kopf habe).
   *Österreichs Podcasterinnen, wo seid ihr?*
 
-Das wären jetzt einige Punkte, an die ich mich erinnere. Kann natürlich sehr gerne (und 
+Das wären jetzt einige Punkte, an die ich mich erinnere. Kann natürlich sehr gerne (und
 hoffentlich) ergänzt werden. Ich freue mich jedenfalls schon auf weitere Treffen!
 
 Liebe Grüße,
