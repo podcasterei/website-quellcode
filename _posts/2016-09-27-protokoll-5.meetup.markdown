@@ -1,0 +1,113 @@
+---
+layout: post
+title: Protokoll 5.Meetup
+date: 2016-09-27 08:00:00 +0200
+author: Dominik Bergthaler
+---
+
+
+## Protokoll des Podcasting MeetUp Österreich #5
+
+am 16.09.2016
+im [Sektor 5](http://www.sektor5.at//), Wien
+
+* Daniel Meßner hat uns verlassen (müssen) an die Uni Hamburg, wird uns aber besuchen
+Sein neuer Podcast für die Uni Wien: [Audimax](https://medienportal.univie.ac.at/uniview/wissenschaft-gesellschaft/podcast-detail/artikel/audimax-01-osteuropa-historiker-oliver-schmitt-im-gespraech/)
+* Melanie Bartos: Wegen Krankheitsfall in der Familie nicht anwesend – liebe Grüße
+
+
+### Homepage & Co
+ 
+* Neue Homepage des österreichischen Podcasting-Meetups: <https://www.podcasterei.at>
+* Slack Channel Podcasterei: <https://podcasterei.slack.com/>
+* Eine Einladung bekommt Ihr durch Ausfüllen des Formulars unter <http://podcasterei.herokuapp.com/>
+
+* Kontaktadressen [mail@podcasteirei.at](mailto://mail@podcasterei.at) geht an Daniel, Melanie und Stefan
+* einzeln: [Melanie](mailto://Melanie@podcasterei.at), [Stefan](mailto://Stefan@podcasterei.at), [Daniel](mailto://daniel@podcasterei.at)
+ 
+
+### Termine
+
+Konferenz Subscribe 08: 14-16.Oktober in München, [Anmeldung](https://www.xing.com/events/subscribe-8-konferenz-workshop-podcasting-subscribe8-1719392)
+ 
+ 
+### Talk Florian Kandler
+
+* Podcast: [Startup Milestones](http://www.startupmilestones.eu/)
+* Launch am letzter Dienstag
+* Über Unternehmensgründung
+* Interviewpodcast mit erfolgreichen Gründern
+* 30min lang
+* Taktik, Methoden, Denkweisen für Podcast Launch\\
+
+
+1. Content Gut Relevant
+  * Kundenfeedback früh (Betalistening)
+  * Fragebögen über Google Forms, auch später für zukünftige Episoden
+
+2. Technische Realisierung
+  * Zahlen Daten Fakten
+  * Aufwand für Vorbereitung pro Episode abschätzen und reduzieren
+  * Gesprächspartner auf Linkedin - Absage/Zusage Statistik erstellen
+
+3. Distribution
+  * Episode auf Veranstaltung - kennenlernen
+  * Episoden von Interviewpartner verlinken lassen
+  * Advertising und Gesprächspartner in Coworkingspaces suchen
+  * Partnerunternehmen der Gesprächspartner
+  * Kunden der Gesprächspartner
+
+
+* Hat bereits 50 Episoden in aufgenommen und vorbereitet – will sich Rest des Jahres auf Distribution konzentrieren
+* Frage von Florian: Statistik Hörerzahlen – wie realisieren - auswerten
+* Professionell wirkendes Intro <https://www.fiverr.com/> für Sprecher
+* Premium Beats für Musik
+* In Zukunft angedacht: Outsourcing einen Teil der Arbeit an <http://upwork.com>
+
+ 
+### Talk Florian Simon
+
+* Medizinstudent
+* Podcast Med Uni von Studierende für Studierende „Interdisziplinäre Fallkonferenzen kompakt“
+  
+
+* Vorlesung sehr umfangreich also: Reduktion von 50min auf 15 min
+* Wird vom Institut als Videomitschnitt aufgezeichnet und dann zum Audio Podcast geschnitten
+* Aufgaben:   Qualitätsicherung
+* Schaffung eines Fallkatalogs
+* Sortierung nach allen Themen für Studis aus allen Abschnitten
+* Vorbereitung der Übernahme für die Zukunft
+
+* Für Studis: Lernen und Bewegung - Joggen usw
+* Bonus mit Rätseln im Moodle - e-Learning System als Anreiz
+* Der Fokus liegt auf dem 3. Abschnitt des Studiums
+
+  
+### Talk Stefan Haslinger
+
+* Podcastverzeichnisse und Feedsuchmaschine = Podcast Social Network Panoptikum <https://www.panoptikum.io>
+* Feedback erbeten
+
+ 
+### Vorstellungsrunde
+ 
+* Herbert Gnauer - Radio Orange  Radio Dispositiv Netzpolitischer Abend Sexarbeit - Idialism prevails <http://sender.fm> - Kontakt: nonanet
+* Christian Berger - Literadio - Zukunft: Podcastplatform für Lehrende (pädag)
+* Nina Gospodarek - Künstlerin - Künstlerinterview <http://dusagst.es>
+* Michael Furtenbach - Gaming Podcast: <http://shock2.at>
+* Florian Kandler - <http://startupmilestones.eu>
+* Josef Leberner- Hörer
+* Horst Jens - Biertaucher
+* Harry List - <http://Fortsetzung.tv> (Serien) & <http://bruttofilmlandsprodukt.net> Film und Fernsehn in Ö - mit Hannes Plameier
+* Matthias Bendl - <https://it-keller.at/podcast>
+* Andreas Stocker - Werbeakademie - Podcast Idee (hatte wenig Interesse) - Podcast für Webauftritte: <http://webdesign-coach.com>
+* Peter - Radio Orange - Interesse - Infos sammeln - Radiopositiv - Nachrichten
+* Dominik Bergthaler - Get.started Podcast - <https://www.overclockers.at/blogs/live-podcast-ocr006_245797> - Community Podcast für overclockers.at
+* Florian Simon - <http://Symptomatisch.at>
+* Gregor Pridun - Biertaucher - Mit Anna Geiger Fotopodcast „Fotofoto“ <http://Namenlos.media>
+* Stefan Haslinger - „Aua-Uff-Code“ mit Anna Geiger <http://Aua-uff-co.de> - Programmieren lernen
+
+
+### Offene Diskussion
+
+Statistik, Technik uvm.
