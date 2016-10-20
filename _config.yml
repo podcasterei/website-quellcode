@@ -14,5 +14,8 @@ markdown: kramdown
 monthly_archive:
   path: "archiv"
 
+collections:
+- meetups
+
 # disqus_shortname: podcasterei
 # disqus_developer: 0 # 1 / 0
