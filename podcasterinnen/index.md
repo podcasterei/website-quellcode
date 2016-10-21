@@ -7,7 +7,7 @@ layout: default
 
 {% for person in site.people %}
 
-### {{ person.name }}
+### [{{ person.name }}]({{ person.url | prepend: site.baseurl }})
 
 <i class="fa fa-twitter"></i> [@{{ person.twitter_handle }}](https://twitter.com/{{ person.twitter_handle }})
 

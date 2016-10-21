@@ -18,5 +18,11 @@ collections:
   people:
     output: true
 
+defaults:
+  - scope:
+      type: people
+    values:
+      layout: person
+
 # disqus_shortname: podcasterei
 # disqus_developer: 0 # 1 / 0
