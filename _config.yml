@@ -13,7 +13,10 @@ monthly_archive:
   path: "archiv"
 
 collections:
-- meetups
+  meetups:
+    output: true
+  people:
+    output: true
 
 # disqus_shortname: podcasterei
 # disqus_developer: 0 # 1 / 0
