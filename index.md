@@ -4,8 +4,22 @@ layout: page
 
 ## Willkommen
 
-Hier fehlt schon mal die Vorstellung wer wir sind.
+Du bist Podcaster:in oder am Thema Podcasting interessiert?
+
+Du würdest Dich gerne mit anderen Gleichgesinnten austauschen, aber nicht in einem Disskussionsthread hier im Internet?
+
+Du lebst in Österreich und ein Fahrt zu einem gemeinsamen Treffen (das zumeist in Wien stattfindet) ist eine Option?
+
+Dann bist Du hier genau richtig. Wir sind eine Gruppe von netten Leuten, die begeistert eine Podcastepisode nach der anderen veröffentlichen, neue Formate erfinden und uns über Storytelling, die neueste Aufnahmetechnik und die gefinkeltsten Publikationsstrategien austauschen.
 
 ## Ziele
 
-Hier fehlen die Ziele, was wir erreichen wollen.
+Wir möchten in einer möglichst großen Gruppe von Gleichgesinnten  unsere Ideen austauschen und unsere Begeisterung teilen.
+
+Aller Anfang ist schwer, und das betrifft ganz besonders auch die beiden oben anreführten Punkte: Audioproduktion und -veröffentlichung. Wir helfen Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des Podcastpat:innen in Kontakt. 
+
+## Aktivitäten
+
+Wir veranstalten gemeinsam Meetups, fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet. 
+
+Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der [Podcaster:innen](/podcasterinnen) vor.
