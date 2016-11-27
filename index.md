@@ -16,10 +16,15 @@ Dann bist Du hier genau richtig. Wir sind eine Gruppe von netten Leuten, die beg
 
 Wir möchten in einer möglichst großen Gruppe von Gleichgesinnten  unsere Ideen austauschen und unsere Begeisterung teilen.
 
-Aller Anfang ist schwer, und das betrifft ganz besonders auch die beiden oben anreführten Punkte: Audioproduktion und -veröffentlichung. Wir helfen Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des Podcastpat:innen in Kontakt. 
+Aller Anfang ist schwer, und das betrifft ganz besonders auch die beiden oben anreführten Punkte: Audioproduktion und -veröffentlichung. Wir helfen Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des Podcastpat:innen in Kontakt.
 
 ## Aktivitäten
 
-Wir veranstalten gemeinsam Meetups, fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet. 
+Wir veranstalten gemeinsam Meetups, fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der [Podcaster:innen](/podcasterinnen) vor.
+
+
+## Code of Conduct
+
+Wir verhalten uns gemäß dem [Berlin Code Of Conduct](/coc.html).
