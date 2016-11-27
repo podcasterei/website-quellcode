@@ -22,7 +22,7 @@ Aller Anfang ist schwer, und das betrifft ganz besonders auch die beiden oben an
 
 Wir veranstalten gemeinsam Meetups, fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der [Podcaster:innen](/podcasterinnen) vor.
+Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der [Podcaster:innen](/podcasterinnen.html) vor.
 
 
 ## Code of Conduct
