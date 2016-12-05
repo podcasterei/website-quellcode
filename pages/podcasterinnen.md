@@ -8,6 +8,8 @@ permalink: podcasterinnen
 
 {% for person in site.people %}
 
+{% assign personnr = forloop.index %}
+
 ### [{{ person.name }}]({{ person.url | prepend: site.baseurl }})
 
 <i class="fa fa-twitter"></i> [@{{ person.twitter_handle }}](https://twitter.com/{{ person.twitter_handle }})
@@ -15,10 +17,10 @@ permalink: podcasterinnen
 {% for podcast in person.podcasts %}
 
 <i class="fa fa-headphones"></i> [{{ podcast.title }}]({{ podcast.url }}) &nbsp; &nbsp;
-<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="de" data-size="small" data-json-data="podcastData1" data-colors="#FC6E51;green;blue" data-buttonid="1" data-hide="false"></script>
+<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="de" data-size="small" data-json-data="person{{personnr}}podcast{{forloop.index}}" data-colors="#FC6E51;green;blue" data-buttonid="1" data-hide="false"></script>
 
 <script>
-  window.podcastData1 = {
+  window.person{{personnr}}podcast{{forloop.index}} = {
     "title": "{{ podcast.title }}",
     "feeds": [{"type": "audio", "format": "mp3",
                "url": "{{ podcast.feed_url }}"}]}
