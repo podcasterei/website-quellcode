@@ -4,7 +4,7 @@ twitter_handle: melaniebartos
 podcasts:
   - title: Zeit für Wissenschaft
     url: https://www.uibk.ac.at/podcast/zeit/
-    feed_url:
+    feed_url: https://www.uibk.ac.at/downloads/c115/zeit/zeit_mp3.xml
 ---
 
 ## Über mich

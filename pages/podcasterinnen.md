@@ -7,25 +7,25 @@ permalink: podcasterinnen
 # Podcaster:innen
 
 {% for person in site.people %}
-
-{% assign personnr = forloop.index %}
-
-### [{{ person.name }}]({{ person.url | prepend: site.baseurl }})
-
-<i class="fa fa-twitter"></i> [@{{ person.twitter_handle }}](https://twitter.com/{{ person.twitter_handle }})
-
-{% for podcast in person.podcasts %}
-
-<i class="fa fa-headphones"></i> [{{ podcast.title }}]({{ podcast.url }}) &nbsp; &nbsp;
-<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="de" data-size="small" data-json-data="person{{personnr}}podcast{{forloop.index}}" data-colors="#FC6E51;green;blue" data-buttonid="1" data-hide="false"></script>
-
-<script>
-  window.person{{personnr}}podcast{{forloop.index}} = {
-    "title": "{{ podcast.title }}",
-    "feeds": [{"type": "audio", "format": "mp3",
-               "url": "{{ podcast.feed_url }}"}]}
-</script>
-
+* [{{ person.name }}]({{ person.url | prepend: site.baseurl }})
+  {% for podcast in person.podcasts %} / {{ podcast.title }} {% endfor %}
 {% endfor %}
 
-{% endfor %}
+<hr/>
+
+Wenn Du in dieses Podcaster:innen-Verzeichnis aufgenommen werden willst, schreibe bitte ein Email an
+<mail@podcasterei.at> mit folgenden Informationen
+
+* Dein Name - so wie Du hier erscheinen willst
+* Dein Twitter Handle
+* Für jeden Deiner Podcasts:
+  * Titel
+  * Url des Webseite
+  * URL des Feeds
+* Eine Vorstellung Deiner Person (am liebsten in Markdown, aber auch plain Text ist voll OK - bitte keine Attachments!)
+
+<hr/>
+
+Das gleiche gilt auch, wenn Du bereits im Verzeichnis bist, aber andere Daten hinterlegt haben willst.
+
+Solltest Du mit Git und Github vertraut sein, kannst Du auch einen Pull Request machen, deine Seite findest Du [hier](https://github.com/podcasterei/website-quellcode/tree/master/_people)
