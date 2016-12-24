@@ -20,7 +20,7 @@ Wenn Du in dieses Podcaster:innen-Verzeichnis aufgenommen werden willst, schreib
 * Dein Twitter Handle
 * Für jeden Deiner Podcasts:
   * Titel
-  * Url des Webseite
+  * URL des Webseite
   * URL des Feeds
 * Eine Vorstellung Deiner Person (am liebsten in Markdown, aber auch plain Text ist voll OK - bitte keine Attachments!)
 
