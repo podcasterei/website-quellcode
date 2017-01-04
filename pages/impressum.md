@@ -8,7 +8,7 @@ permalink: impressum
 
 ## Medieninhaber 
 
-Melanie Bartos
+Mag. Melanie Bartos
 
 Mag. Stefan Haslinger<br/>
 Vorgartenstrasse 145/2/3<br/>
