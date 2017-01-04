@@ -7,7 +7,7 @@ permalink: meetups
   <h1 class="page-heading">Meetups</h1>
 
   Die Meetups werden auf einer 
-  [Meetup-Seite](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/) organisiert.
+  <a href="https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/">Meetup-Seite</a> organisiert.
 
   <ul class="list-group">
     {% for meetup in site.meetups %}
