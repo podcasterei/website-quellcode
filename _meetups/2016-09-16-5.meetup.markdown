@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: meetup
 title: 5.Meetup
 date: 2016-09-16 08:00:00 +0200
 author: Stefan Haslinger

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: meetup
 title: Protokoll 1.Meetup
 date: 2015-10-11 08:00:00 +0200
 author: Melanie Bartos und Daniel Meßner

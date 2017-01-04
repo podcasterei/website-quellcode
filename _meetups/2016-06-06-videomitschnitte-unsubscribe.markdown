@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: meetup
 title: Videomitschnitte Unsubscribe
 date: 2016-06-08 08:00:00 +0200
 author: Tim Pritlove, Dominik Bergthaler

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: meetup
 title: Protokoll 3.Meetup
 date: 2016-02-07 08:00:00 +0200
 author: Melanie Bartos
