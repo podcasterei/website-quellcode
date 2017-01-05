@@ -6,11 +6,11 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
-    {% if page.author %} 
-      <p> 
-        <i class="fa fa-user"></i> &nbsp; 
+    {% if page.author %}
+      <p>
+        <i class="fa fa-user"></i> &nbsp;
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span itemprop="name">{{ page.author }}</span> 
+          <span itemprop="name">{{ page.author }}</span>
         </span>
       </p>
     {% endif %}
@@ -45,11 +45,5 @@ layout: default
 
   <br/><br/>
   <i class="fa fa-arrow-left"></i> Zurück zum <a href="{{ site.url }}/blog">Blog</a>
-  <br/><br/>
-
-  <h2>Kommentare</h2>
-
-  {% include disqus_thread.html %}
-
   <br/><br/>
 </article>
