@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Das nächste Meetup findet am 24.Jänner 2017 statt,
+**Das nächste Meetup findet am 24.Februar 2017 statt,
   bitte auf [Meetup](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/236959538/) anmelden!**
 
 <hr/>
