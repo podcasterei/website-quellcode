@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 layout: default
-permalink: coc
+permalink: coc/
 ---
 
 # Berlin Code of Conduct

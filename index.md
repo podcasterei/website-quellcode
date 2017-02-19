@@ -37,9 +37,9 @@ Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Mee
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
-[Podcaster:innen](/podcasterinnen.html) vor.
+[Podcaster:innen](/podcasterinnen) vor.
 
 
 ## Code of Conduct
 
-Wir verhalten uns gemäß dem [Berlin Code Of Conduct](/coc.html).
+Wir verhalten uns gemäß dem [Berlin Code Of Conduct](/coc).

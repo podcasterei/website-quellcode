@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: meetups
+permalink: meetups/
 ---
 
 <div class="home">
   <h1 class="page-heading">Meetups</h1>
 
-  Die Meetups werden auf einer 
+  Die Meetups werden auf einer
   <a href="https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/">Meetup-Seite</a> organisiert.<br/><br/>
 
   <ul class="list-group">

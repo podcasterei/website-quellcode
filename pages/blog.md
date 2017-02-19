@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: blog
+permalink: blog/
 ---
 
 <div class="home">
@@ -11,10 +11,10 @@ permalink: blog
   <ul class="list-group">
     {% for post in site.posts %}
       <li class="list-group-item">
-        <a class="post-link" 
+        <a class="post-link"
 	   href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
-        </a> - 
+        </a> -
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%-d" }}.
         {% case m %}

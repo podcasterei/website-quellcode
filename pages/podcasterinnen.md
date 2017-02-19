@@ -1,10 +1,11 @@
 ---
 title: Podcaster:innen
 layout: default
-permalink: podcasterinnen
+permalink: podcasterinnen/
 ---
 
 # Podcaster:innen
+
 
 {% for person in site.people %}
 * [{{ person.name }}]({{ person.url | prepend: site.baseurl }})

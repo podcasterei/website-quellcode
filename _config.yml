@@ -1,7 +1,6 @@
 title: Podcasterei
 email: stefan.haslinger@informatom.com
-description: > # this means to ignore newlines until "baseurl:"
-  Das Podcasting Meetup Österreich - genannt Podcasterei - ist ...
+description: Das Podcasting Meetup Österreich
 baseurl: ""
 url: "https://www.podcasterei.at"
 twitter_username: podcasterei
