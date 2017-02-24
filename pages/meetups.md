@@ -37,3 +37,7 @@ permalink: meetups/
     {% endfor %}
   </ul>
 </div>
+
+# Talks & Presentationen
+
+* [7.Meetup](/meetup7) - Einleitung zum Podcasting Treffen 7 am 24.2.2017, Wien, Sektor 5
