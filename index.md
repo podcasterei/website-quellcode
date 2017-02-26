@@ -2,11 +2,6 @@
 layout: page
 ---
 
-**Das nächste Meetup findet am 24.Februar 2017 statt,
-  bitte auf [Meetup](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/236959538/) anmelden!**
-
-<hr/>
-
 ## Willkommen
 
 Du bist Podcaster:in oder am Thema Podcasting interessiert?
