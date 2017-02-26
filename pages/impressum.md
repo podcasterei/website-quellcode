@@ -8,7 +8,7 @@ permalink: impressum/
 
 ## Medieninhaber
 
-Mag. Melanie Bartos
+Mag. Melanie Bartos<br/>
 <melanie@podcasterei.at>
 
 Mag. Stefan Haslinger<br/>
