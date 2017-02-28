@@ -70,6 +70,7 @@ Spaß am Podcasten haben. Wir verstehen uns als Community-Projekt und sind keine
 * Trefft uns auf Veranstaltungen: Ob beim Meetup, Events wie Subscribe,
   re:publica oder Chaos Communication Congress – wir sind vor Ort und freuen uns
   auf euch.
+* Auf Slack: [podcasterei#podcastpatinnen](https://podcasterei.slack.com/messages/podcastpatinnen/)
 
 
 Wie auch immer dein Bedarf aussieht, kontaktiere uns am besten über dieses
