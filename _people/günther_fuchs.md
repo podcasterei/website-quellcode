@@ -1,6 +1,6 @@
 ---
-name: Adrian Hutle
-twitter_handle: adrian_hutle
+name: Günther Fuchs
+twitter_handle: GuenterLFuchs
 podcasts:
   - title: Stubat
     url: http://stubat.at/
