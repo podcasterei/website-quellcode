@@ -11,7 +11,9 @@ podcasts:
   - title: Sex/Arbeit/Lust/Illusionen VER/KAUFEN - Vom Arbeitsalltag in den Lustwerkstätten
     url: http://lustwerkstatt.at
     feed_url: https://cba.fro.at/series/lustwerkstatt/feed
-
+  - title: Egon Friedell - Kulturgeschichte der Neuzeit
+    url: http://no-na.net/friedell
+    feed_url: https://cba.fro.at/series/egon-friedell-kulturgeschichte-der-neuzeit/feed?limit=130
 ---
 
 ## Über mich
