@@ -39,15 +39,16 @@ Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
 
 
-# ... und online?
+## ... und online?
 
 ... kann mit mit uns chatten auf unserem [Slack Channel](https://podcasterei.slack.com/), der auch oben verlinkt ist.
-Um sich selbst einzladen geht man auf [diese Seite](http://podcasterei.herokuapp.com/) und trägt
-die E-Mail-Adresse, mit der man registriert werden will ein.
+Um sich selbst einzuladen geht man auf [diese Seite](http://podcasterei.herokuapp.com/) und trägt
+die E-Mail-Adresse, mit der man registriert werden will, ein.
 Der Aufruf der Seite dauert einige Zeit, da die App erst aufwachen muss 😴.
 
 Es gibt auch noch den Twitter Account [@podcasterei](https://twitter.com/podcasterei), ebenfalls mit
-Menüeintrag oben.
+Menüeintrag oben auf dem wir auch Veranstaltungstipps geben und Interessantes für die österreichische
+Podcastingszene teilen.
 
 ## Code of Conduct
 
