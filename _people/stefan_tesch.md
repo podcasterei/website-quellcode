@@ -11,5 +11,5 @@ podcasts:
 Stefan Tesch ist Journalist in Wien und betreibt mit "Fisch Ahoi“ einen Podcast zum Thema Angeln.
 
 * [Soundcloud](http://soundcloud.com/fischahoi)
-* [Facebook](facebook.com/fischahoipodcast)
+* [Facebook](http://facebook.com/fischahoipodcast)
 * Email: <redaktion@fischahoi.at>
