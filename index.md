@@ -32,9 +32,22 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/),
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
+Bitte melde Dich bei Meetup an und sage zu, wenn Du vor hast, zu einem Meetup zu kommen.
+Das hilft uns bei der Raumplanung.
+
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
 
+
+# ... und online?
+
+... kann mit mit uns chatten auf unserem [Slack Channel](https://podcasterei.slack.com/), der auch oben verlinkt ist.
+Um sich selbst einzladen geht man auf [diese Seite](http://podcasterei.herokuapp.com/) und trägt
+die E-Mail-Adresse, mit der man registriert werden will ein.
+Der Aufruf der Seite dauert einige Zeit, da die App erst aufwachen muss 😴.
+
+Es gibt auch noch den Twitter Account [@podcasterei](https://twitter.com/podcasterei), ebenfalls mit
+Menüeintrag oben.
 
 ## Code of Conduct
 
