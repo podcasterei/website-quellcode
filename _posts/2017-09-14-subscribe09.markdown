@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Subscribe 09
+title: Subscribe 9
 date: 2017-09-14 16:40:00 +0200
 author: Stefan Haslinger
 ---
 
 Von 27. – 29. Oktober 2017 findet wieder die Podcasting-Konferenz 
-[Subscribe 09](https://das-sendezentrum.de/subscribe/sub9/) in den Konferenzräumen des Bayerischen
+[Subscribe 9](https://das-sendezentrum.de/subscribe/sub9/) in den Konferenzräumen des Bayerischen
 Rundfunks, Eingang Hopfenstraße/Ecke Marsstraße, München statt.
 
 Die Subscribe sagt von sich selbst:
