@@ -1,0 +1,28 @@
+---
+layout: post
+title: Subscribe 09
+date: 2017-09-14 16:40:00 +0200
+author: Stefan Haslinger
+---
+
+Von 27. – 29. Oktober 2017 findet wieder die Podcasting-Konferenz 
+[Subscribe 09](https://das-sendezentrum.de/subscribe/sub9/) in den Konferenzräumen des Bayerischen
+Rundfunks, Eingang Hopfenstraße/Ecke Marsstraße, München statt.
+
+Die Subscribe sagt von sich selbst:
+
+> Die Subscribe ist nicht einfach eine Podcasting-Konferenz.
+>
+> Die Subscribe ist viel mehr: Eine Konferenz, ein Workshop und ein Community-Treffen für
+> Podcaster:innen, Entwickler:innen, engagierte Hörer:innen, interessierte Forscher:innen und andere
+> aufgeschlossene Menschen, die sich aktiv in die Gestaltung und Zukunft des Podcastings einbringen,
+> sich mit anderen Menschen vernetzen und sich selbst und andere weiterbilden möchten.
+
+Und so ist es tatsächlich: Sowohl in Form von Vorträgen
+([Call for Papers](https://frab.das-sendezentrum.de/de/subscribe9/cfp/session/new)) als auch
+Workshops([Call for Participation](https://sendegate.de/t/subscribe9-workshop-und-themen-planung/5844))
+erzeugen sich die Teilnehmer:innen der Subscribe ihr Programm selbst.
+
+Der Ticketverkauf hat bereits begonnen. Vom österreichischen Podcasting Meetup werden wieder einige
+Leute mit dabei sein, jedenfalls Melanie und Stefan. Anschluss zu finden, sollte also einfach
+möglich sein :-)
