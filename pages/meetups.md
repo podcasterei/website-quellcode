@@ -41,3 +41,5 @@ permalink: meetups/
 # Talks & Presentationen
 
 * [7.Meetup](/meetup7) - Einleitung zum Podcasting Treffen 7 am 24.2.2017, Wien, Sektor 5
+* [8.Meetup](/meetup8) - Einleitung zum Podcasting Treffen 8 am 28.4.2017, Wien, Sektor 5
+* [9.Meetup](/meetup9) - Einleitung zum Podcasting Treffen 9 am 13.10.2017, Wien, Sektor 5
