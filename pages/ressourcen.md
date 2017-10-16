@@ -16,6 +16,7 @@ vorgekommen ist.
 * [Audioser.ch](https://www.audiosear.ch/)
 * [Apple – iTunes – Podcasts](https://www.apple.com/at/itunes/podcasts/) - Anmeldung bei
   [Itunes Connect](https://itunesconnect.apple.com/)
+* [Digital Podcast](http://www.digitalpodcast.com/)
 * [Fyyd](https://fyyd.de/)
 * [Google Play Music](https://support.google.com/googleplaymusic/answer/6343833?hl=de)
 * [gpodder.net](https://www.gpodder.net/)
@@ -30,8 +31,11 @@ vorgekommen ist.
 
 ## Hosting
 
+* [Huffduffer](https://huffduffer.com/)
+* [Libsyn](https://www.libsyn.com/)
 * [jekyll-octopod](https://jekyll-octopod.github.io/) - disclaimer: betreut von
   [Stefan](/people/stefan_haslinger.html)
+* [Podbay](http://podbay.fm/)
 * [Podigee](https://www.podigee.com/en/)
 * [Podigee Podcast Player](https://www.podigee.com/en/podcast-player/)
 * [Podlove Podcast Publisher](https://podlove.org/podlove-podcast-publisher/)
