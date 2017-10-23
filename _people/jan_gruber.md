@@ -2,21 +2,21 @@
 name: Jan Gruber
 twitter_handle: Finariel
 podcasts:
-  - title: "GeekTalk"
-    url: http://geektalk.ch/
-    feed_url: http://geektalk.ch/feed/podcast/
-  - title: "GeekTalk Daily"
-    url: https://daily.GeekTalk.ch
-    feed_url: http://daily.GeekTalk.ch/feed/podcast
-  - title: GeekCouch
-    url: http://GeekTalk.ch/category/podcast/geekcouch-podcast/
-    feed_url: http://GeekTalk.ch/category/podcast/geekcouch-podcast/feed
-  - title: Monowelle
-    url: http://www.monowelle.at
-    feed_url: http://www.monowelle.at/podcast/feed/mp3/
-  - title: ApfelTalk Live
-    url: https://www.apfeltalk.de/magazin/
-    feed_url: http://feeds.apfeltalk.de/ATLN-Video
+- title: "GeekTalk"
+  url: http://geektalk.ch/
+  feed_url: http://geektalk.ch/feed/podcast/
+- title: "GeekTalk Daily"
+  url: https://daily.GeekTalk.ch
+  feed_url: http://daily.GeekTalk.ch/feed/podcast
+- title: GeekCouch
+  url: http://GeekTalk.ch/category/podcast/geekcouch-podcast/
+  feed_url: http://GeekTalk.ch/category/podcast/geekcouch-podcast/feed
+- title: Monowelle
+  url: http://www.monowelle.at
+  feed_url: http://www.monowelle.at/podcast/feed/mp3/
+- title: ApfelTalk Live
+  url: https://www.apfeltalk.de/magazin/
+  feed_url: http://feeds.apfeltalk.de/ATLN-Video
 ---
 
 # Über Mich

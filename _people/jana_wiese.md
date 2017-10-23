@@ -2,9 +2,9 @@
 name: Jana Wiese
 twitter_handle: jasowies_o
 podcasts:
-  - title: Lieblings Plätzchen
-    url: http://www.lieblings-plaetzchen.com/
-    feed_url: http://www.lieblings-plaetzchen.com/episodes.mp3.rss
+- title: Lieblings Plätzchen
+  url: http://www.lieblings-plaetzchen.com/
+  feed_url: http://www.lieblings-plaetzchen.com/episodes.mp3.rss
 ---
 
 ## Über mich

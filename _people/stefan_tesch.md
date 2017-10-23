@@ -1,9 +1,9 @@
 ---
 name: Stefan Tesch
 podcasts:
-  - title: Fisch Ahoi – Der Podcast vom Wasser
-    url: http://www.fischahoi.at
-    feed_url: http://www.fischahoi.at/podcast.xml
+- title: Fisch Ahoi – Der Podcast vom Wasser
+  url: http://www.fischahoi.at
+  feed_url: http://www.fischahoi.at/podcast.xml
 ---
 
 ## Über mich

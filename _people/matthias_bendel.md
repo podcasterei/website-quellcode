@@ -2,12 +2,12 @@
 name: Matthias Bendel
 twitter_handle: _mabe
 podcasts:
-  - title: IT-Keller
-    url: https://it-keller.at
-    feed_url: https://it-keller.at/rss
-  - title: Aua-Uff-Code!
-    url: https://aua-uff-co.de
-    feed_url: https://aua-uff-co.de/episodes.mp3.rss
+- title: IT-Keller
+  url: https://it-keller.at
+  feed_url: https://it-keller.at/rss
+- title: Aua-Uff-Code!
+  url: https://aua-uff-co.de
+  feed_url: https://aua-uff-co.de/episodes.mp3.rss
 ---
 
 ## Über mich

@@ -2,15 +2,15 @@
 name: Daniel Meßner
 twitter_handle: meszner
 podcasts:
-  - title: Zeitsprung
-    url: http://www.zeitsprung.fm/
-    feed_url: http://www.zeitsprung.fm/feed/mp3/
-  - title: Stimmen der Kulturwissenschaften
-    url: http://stimmen.univie.ac.at
-    feed_url: http://stimmen.univie.ac.at/feed/mp3
-  - title: Coding History
-    url: http://codinghistory.com
-    feed_url: http://codinghistory.com/feed/mp3/
+- title: Zeitsprung
+  url: http://www.zeitsprung.fm/
+  feed_url: http://www.zeitsprung.fm/feed/mp3/
+- title: Stimmen der Kulturwissenschaften
+  url: http://stimmen.univie.ac.at
+  feed_url: http://stimmen.univie.ac.at/feed/mp3
+- title: Coding History
+  url: http://codinghistory.com
+  feed_url: http://codinghistory.com/feed/mp3/
 ---
 
 ## Über mich

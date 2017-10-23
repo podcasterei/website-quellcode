@@ -2,9 +2,9 @@
 name: Tom Oberbichler
 twitter_handle: buch_schreiben
 podcasts:
-  - title: „Dein Buch mit Tom Oberbichler“ schreiben, veröffentlichen, vermarkten
-    url: https://be-wonderful.com/podcast
-    feed_url: http://dein_buch.libsyn.com/rss
+- title: „Dein Buch mit Tom Oberbichler“ schreiben, veröffentlichen, vermarkten
+  url: https://be-wonderful.com/podcast
+  feed_url: http://dein_buch.libsyn.com/rss
 ---
 
 ## Tom Oberbichler, Bestsellerautor & Buchmentor

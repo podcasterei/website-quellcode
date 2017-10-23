@@ -2,15 +2,15 @@
 name: Stefan Haslinger
 twitter_handle: informatom
 podcasts:
-  - title: Aua-Uff-Code!
-    url: https://aua-uff-co.de
-    feed_url: https://aua-uff-co.de/episodes.mp3.rss
-  - title: Stefan will's wissen
-    url: https://podcast.stefan-haslinger.at/
-    feed_url: https://podcast.stefan-haslinger.at/episodes.mp3.rss
-  - title: 3 Schweinehunde
-    url: https://3-schweinehun.de/
-    feed_url: https://3-schweinehun.de/episodes.mp3.rss
+- title: Aua-Uff-Code!
+  url: https://aua-uff-co.de
+  feed_url: https://aua-uff-co.de/episodes.mp3.rss
+- title: Stefan will's wissen
+  url: https://podcast.stefan-haslinger.at/
+  feed_url: https://podcast.stefan-haslinger.at/episodes.mp3.rss
+- title: 3 Schweinehunde
+  url: https://3-schweinehun.de/
+  feed_url: https://3-schweinehun.de/episodes.mp3.rss
 ---
 
 # Hallo!
