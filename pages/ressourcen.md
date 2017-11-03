@@ -28,6 +28,7 @@ vorgekommen ist.
 * [Podcast.at](http://www.podcast.at/)
 * [Podcast.de](https://www.podcast.de/)
 * [podcasts.com](http://www.podcasts.com/)
+* [Podchaser](https://www.podchaser.com/episodes)
 * [Soundcloud](https://soundcloud.com/for/podcasting)
 * [Spotify](https://support.spotify.com/us/using_spotify/features/podcasts/)
 
