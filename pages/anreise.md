@@ -31,7 +31,7 @@ Der 80A verkehrt zu Beginn des Meetups alle 15 min von der Station Schlachthausg
 </iframe>
 <br/><br/>
 
-### Von der Station _Schlachthausgasse_ der Linie U3 in etwa 11 min
+### Von der Station _Schlachthausgasse_ der Linie U3 in etwa 13 min
 
 <iframe width="800" height="450" frameborder="0" style="border:0" allowfullscreen
         src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyA_XogORsf_cDS7v9AG50rrzeKzL_mdmw0&&origin=48.19452170880383,16.40670776617185&destination=Karl-Farkas-Gasse+18,+1030+Wien&mode=walking">
