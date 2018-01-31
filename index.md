@@ -34,6 +34,8 @@ fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstal
 
 Das nächste Meetup ist für den
 [2. Februar](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/246898733/) geplant.
+Informationen, wie Ihr mit öffentlichen Verkehrsmitteln hinkommt, gibt es auf der Seite
+[Anreise](/anreise).
 
 Bitte melde Dich bei Meetup an und sage zu, wenn Du vor hast, zu einem Meetup zu kommen.
 Das hilft uns bei der Raumplanung.
