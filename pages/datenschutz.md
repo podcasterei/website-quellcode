@@ -41,7 +41,7 @@ ist dies die [Datenschutzbehörde](https://www.dsb.gv.at/).
 
 ## Kontakt
 
-Sie erreichen mich uns folgenden Kontaktdaten:
+Sie erreichen uns unter folgenden Kontaktdaten:
 
 Mag Stefan Haslinger<br/>
 Vorgartenstrasse 145/2/3<br/>
