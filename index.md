@@ -32,10 +32,7 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/),
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-Das nächste Meetup ist für den
-[2. Februar](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/246898733/) geplant.
-Informationen, wie Ihr mit öffentlichen Verkehrsmitteln hinkommt, gibt es auf der Seite
-[Anreise](/anreise).
+Es gibt noch keinen Termin für das nächste Meetup.
 
 Bitte melde Dich bei Meetup an und sage zu, wenn Du vor hast, zu einem Meetup zu kommen.
 Das hilft uns bei der Raumplanung.
