@@ -11,6 +11,10 @@ podcasts:
 - title: 3 Schweinehunde
   url: https://3-schweinehun.de/
   feed_url: https://3-schweinehun.de/episodes.mp3.rss
+- title: Podcastpat:innenpodcast
+  url: https://podcastpatinnen.podigee.io/
+  feed_url: http://podcastpatinnen.podigee.io/feed/aac
+
 ---
 
 # Hallo!

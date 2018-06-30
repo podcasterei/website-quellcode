@@ -17,13 +17,14 @@ layout: default
   <a href="{{ podcast.url }}">{{ podcast.title }}</a>
   &nbsp; &nbsp;
 <script class="podlove-subscribe-button"
-        src="https://cdn.podlove.org/subscribe-button/javascripts/app.js"
+        src="/subscribe-button/javascripts/app.js"
         data-language="de"
         data-size="small"
         data-json-data="podcast{{forloop.index}}"
         data-colors="#FC6E51;green;blue"
-        data-buttonid="1"
-        data-hide="false">
+        data-buttonid="subscribe-button{{forloop.index}}"
+        data-style="filled"
+        data-format="square">
 </script>
 
 <script>
