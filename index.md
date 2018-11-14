@@ -32,10 +32,10 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/),
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-Es gibt noch keinen Termin für das nächste Meetup.
-
-Bitte melde Dich bei Meetup an und sage zu, wenn Du vor hast, zu einem Meetup zu kommen.
-Das hilft uns bei der Raumplanung.
+Der **Termin des nächsten Meetups ist der 23.11.2018**, Location ist diesmal das Metalab.
+Bitte **melde Dich für unter
+[Podcasting Meetup # 12](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/256410619)
+an**, wenn Du vor hast, zu kommen.
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.

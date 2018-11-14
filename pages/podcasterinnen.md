@@ -23,10 +23,12 @@ Wenn Du in dieses Podcaster:innen-Verzeichnis aufgenommen werden willst, schreib
   * Titel
   * URL des Webseite
   * URL des Feeds
-* Eine Vorstellung Deiner Person (am liebsten in Markdown, aber auch plain Text ist voll OK - bitte keine Attachments!)
+* Eine Vorstellung Deiner Person (am liebsten in Markdown, aber auch plain Text ist voll OK -
+  bitte keine Attachments!)
 
 <hr/>
 
 Das gleiche gilt auch, wenn Du bereits im Verzeichnis bist, aber andere Daten hinterlegt haben willst.
 
-Solltest Du mit Git und Github vertraut sein, kannst Du auch einen Pull Request machen, deine Seite findest Du [hier](https://github.com/podcasterei/website-quellcode/tree/master/_people)
+Solltest Du mit Git und Github vertraut sein, kannst Du auch einen Pull Request machen, deine Seite
+findest Du [hier](https://github.com/podcasterei/website-quellcode/tree/master/_people)
