@@ -21,7 +21,8 @@ Diversität. Während der Schulzeit traten zwar Begriffe wie „Maibledschn“ (
 TV-Beiträgen während journalistischer Praktika ließ mich den Wert spontaner, authentischer
 Sprachaufnahmen schätzen lernen. Im Zuge meiner Unterrichtstätigkeit in den Fächern Deutsch und
 Psychologie/Philosophie konnte ich meine Passion für linguistische Fragestellungen ebenso an
-SchülerInnen weitergeben. Aktuell beschäftige ich mich in meinem Dissertationsprojekt mit dem Gebrauch der deutschen Sprache an Wiener Universitäten.
+SchülerInnen weitergeben. Aktuell beschäftige ich mich in meinem Dissertationsprojekt mit dem
+Gebrauch der deutschen Sprache an Wiener Universitäten.
 
 Sprachen sind allgegenwärtig. Und unglaublich facettenreich. Jeder bzw. jede ist SprecherIn und
 HörerIn von Sprachen. In meinem Podcast möchte ich vor allem die vielen Varianten der deutschen
