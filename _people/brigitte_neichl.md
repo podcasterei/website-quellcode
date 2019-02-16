@@ -12,7 +12,7 @@ podcasts:
 Mein Name ist Brigitte Neichl. Man könnte mich als kreativ-chaotische Scanner-Persönlichkeit, die 
 gerne netzwerkt, beschreiben. Mein Ideenkarussell steht niemals still. Ich lebe in Wien, bin in der 
 Erwachsenenbildung tätig und seit über 20 Jahren im Bezirksmuseum Rudolfsheim-Fünfhaus aktiv. Seit 
-2011 leite ich das Museum und in dieser Funktion als Museumsleiterin betreibe ich auf diesen Podcast.
+2011 leite ich das Museum und in dieser Funktion als Museumsleiterin betreibe ich auch diesen Podcast.
 
 ### Ziel & Inhalte des Podcasts
 
