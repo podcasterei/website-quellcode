@@ -32,9 +32,9 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/),
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-Der **Termin des nächsten Meetups ist der 8.3.2019**, Location ist diesmal das Metalab.
+Der **Termin des nächsten Meetups ist der 14.5.2019**, Location ist diesmal das Metalab.
 Bitte **melde Dich für unter
-[Podcasting Meetup # 14](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/258726949/)
+[Podcasting Meetup # 15](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/260909603/)
 an**, wenn Du vor hast, zu kommen.
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
