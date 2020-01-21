@@ -15,4 +15,4 @@ und präsentieren als erste Produktion "Wiener Blut", den True Crime-Podcast
 von der schönen blauen Donau. Hinter der Podcast Posse, die ihr auch auf
 [Instagram](https://instagram.com/podcastpossevienna) und
 [Facebook](https://facebook.com/ThePodcastPosse) findet, stecken Rita, Claudia
-und Bernhard. Mehr zu all dem gibt's auf www.podcastposse.at.
+und Bernhard. Mehr zu all dem gibt's auf <https://www.podcastposse.at>.
