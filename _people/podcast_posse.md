@@ -1,6 +1,6 @@
 ---
 name: The Podcast Posse
-twitter_handle: The PodcastPosse
+twitter_handle: thepodcastposse
 podcasts:
 - title: Wiener Blut
   url: http://www.podcastposse.at/
