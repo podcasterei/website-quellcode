@@ -17,6 +17,8 @@ eine Tüte mit Podcasterei-Merch vorbeigebracht hat!
 
 ## 1. Lightning Talk: Alexander Staub stellt ["Desk-Reject - der PhD-Cast"](https://deskreject.home.blog/) vor
 
+![Alexander Staub](/img/m17/meetup17-11-w.jpg){:width="100%"}
+
 Dahinter stecken vier PhD-Kandidatinnen vom gleichen Department der WU, die
 unter Pseudonym - Sopherl, Sasha, Didi und Boris - podcasten. Sie wollen
 emotionalen Support für andere bieten, die gerade an ihrem PhD arbeiten und
@@ -38,7 +40,7 @@ Einblicke in ihren Alltag geben - klare Positionierung als Nischenpodcast.
  Die erste Folge wurde im September 2019 veröffentlicht, mittlerweile gibt es
  acht. Ziel ist monatliche Veröffentlichung. Desk-Reject nutzt das
  Aufnahmestudio der WU und hostet über Podigee. Ein
- Standard-Blog-Artikel 
+ Standard-Blog-Artikel
  ([Ängste und Depressionen als ständige Begleiter im Studium](https://www.derstandard.at/story/2000114482502/aengste-und-depressionen-als-staendige-begleiter-im-studium)) verhalf ihnen
  zu mehr Reichweite.
 
@@ -55,9 +57,15 @@ Einblicke in ihren Alltag geben - klare Positionierung als Nischenpodcast.
 * [@deskreject](http://instagram.com/deskreject) bei Instagram
 * [@deskreject](twitter.com/deskreject) bei Twitter
 
+![Sketchnote zum Lightning Talk (Jana Wiese)](/img/m17/podcastingmeetup17-deskreject-alexanderstaub-w.jpg){:width="100%"}
+
 ## 2. Lightning Talk: Steckbrief Lisa Kramer & [Mund:ART-Podcast]((http://mundartpodcast.at/))
 
+![Lisa Krammer](/img/m17/meetup17-01w.jpg){:width="100%"}
+
 [s. Blogbeitrag dazu](https://www.podcasterei.at/blog/steckbrief/2020/02/18/Podcast-Steckbrief-Lisa-Krammer-Mundart.html)
+
+![Sketchnote zum Lightning Talk (Jana Wiese)](/img/m17/podcastingmeetup17-Steckbrief-Lisa-Krammerw.jpg){:width="100%"}
 
 ## 3. Lightning Talk: Beatrice Frasl über Podcasting als feministische Gegenöffentlichkeit und Finanzierung mit Steady
 
@@ -67,8 +75,8 @@ leider entfallen
 
 * Georg vom [Radio FRO in Linz]((http://mundartpodcast.at/)) macht auch einen
   internen Podcast für ein IT-Unternehmen
-* Gregor und Fabian: [Gemeinwohlgeplauder](https://gemeinwohlgeplauder.org/),  
-  [Neugierig](https://neugierig.biondekbuehne.at/), 
+* Gregor und Fabian: [Gemeinwohlgeplauder](https://gemeinwohlgeplauder.org/),
+  [Neugierig](https://neugierig.biondekbuehne.at/),
   [Inside Impact](https://www.wu.ac.at/sec/sec-podcast#c543143)
 * Alexander: ["Desk-Reject - der PhD-Cast"](https://deskreject.home.blog/)
 * Lisa: [Mund:ART](http://mundartpodcast.at/)
