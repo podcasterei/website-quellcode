@@ -1,3 +1,3 @@
 source 'http://rubygems.org'
 
-gem 'jekyll', "3.7.3"
+gem 'jekyll', "4.0.0"
