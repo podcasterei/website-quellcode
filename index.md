@@ -32,10 +32,7 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/),
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-Der **Termin des nächsten Meetups ist der 18.2.2020**, Location ist diesmal Global 2000 in der Neustiftgasse 36.
-Bitte **melde Dich für unter
-[Podcasting Meetup # 17](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/events/268018327/)
-an**, wenn Du vor hast, zu kommen.
+Der **Termin des nächsten Meetups ist der 29.6.20, 19 Uhr**,  Details im [Blogpost](/blog/2020/06/18/einladung-18-meetup.html).
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
