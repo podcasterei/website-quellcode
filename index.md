@@ -29,10 +29,10 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 
 ## Aktivitäten
 
-Wir veranstalten gemeinsam [Meetups](https://www.meetup.com/de-DE/Podcasting-Meetup-Osterreich/),
+Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-Der **Termin des nächsten Meetups ist der 29.6.20, 19 Uhr**,  Details im [Blogpost](/blog/2020/06/18/einladung-18-meetup.html).
+Der **Termin des nächsten Meetups, einem Podcast-Picknick im Freien, ist der 21.09.20, 17 Uhr**,  Details im [Blogpost](blog/2020/09/07/einladung-19-meetup.html).
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
