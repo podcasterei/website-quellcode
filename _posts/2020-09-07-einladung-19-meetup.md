@@ -6,6 +6,8 @@ author: Jana Wiese
 categories: [Blog]
 ---
 
+![Einladung Podcast-Picknick](/img/m19/podcastpicknick-insta.jpg){:width="50 %"}
+
 Der Sommer ist schon *fast* vorbei. Aber nur fast!
 
 Deshalb wollen wir uns am Montag, 21. September 2020 ab 17 Uhr im Campus Altes AKH in Wien zu einem Podcastpicknick treffen. Natürlich mit Baby-🐘-Abstand und ohne langes Programm – im Sommer sollte sich eins ja ausruhen und amüsieren!
