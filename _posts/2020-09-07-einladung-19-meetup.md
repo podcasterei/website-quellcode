@@ -6,7 +6,7 @@ author: Jana Wiese
 categories: [Blog]
 ---
 
-![Einladung Podcast-Picknick](/img/m19/podcastpicknick-insta.jpg){:width="50 %"}
+![Einladung Podcast-Picknick](/img/m19/podcastpicknick-insta.jpg){:width="50%"}
 
 Der Sommer ist schon *fast* vorbei. Aber nur fast!
 
