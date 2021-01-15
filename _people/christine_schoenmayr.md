@@ -1,5 +1,5 @@
 ---
-name: Christina Schönmayr
+name: Christine Schönmayr
 
 podcasts:
 - title: Gscheid Gsund - Der Gesundheitspodcast
