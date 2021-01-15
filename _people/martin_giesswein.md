@@ -3,7 +3,7 @@ name: Martin Giesswein
 twitter_handle: mhgiesswein
 podcasts:
 - title: Digital Game Changer
-  url: www.martingiesswein.com/podcast
+  url: https://www.martingiesswein.com/podcast
   feed_url: https://anchor.fm/s/8d2b934/podcast/rss
 
 
