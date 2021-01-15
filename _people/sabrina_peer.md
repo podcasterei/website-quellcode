@@ -3,7 +3,7 @@ name: Sabrina Peer
 twitter_handle: ottoundsabrina
 
 podcasts:
-- title: Otto & Sabrina
+- title: Otto & Sabrina haben einen Gast und reden über Filme
   url: https://ottoundsabrina.simplecast.com/
   feed_url: https://feeds.simplecast.com/9ylWpLve
 ---
