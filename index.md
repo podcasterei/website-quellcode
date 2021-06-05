@@ -32,8 +32,8 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup ist am Dienstag, 30. März 2021 um 18.30 Uhr. Es wird online auf Zoom stattfinden.** 
-Anmeldung per E-Mail an <mail@podcasterei.at> mit dem Betreff "Meetup 20". [Hier gehts zum Programm und weiteren Infos.](/blog/2021/03/25/einladung-20-meetup.html)
+**Das nächste Meetup ist am Montag, 28. Juni 2021 um 18.30 Uhr. Es wird online auf Zoom stattfinden.** 
+Anmeldung per E-Mail an <mail@podcasterei.at> mit dem Betreff "Meetup 21". [Hier gehts zum Programm und weiteren Infos.](/blog/2021/06/05/einladung-21-meetup.html)
 
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
