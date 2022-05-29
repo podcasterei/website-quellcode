@@ -32,8 +32,8 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup ist am Dienstag, 14. Juni 2022 um 18 Uhr im Campus Altes AKH (Hof 3) in Wien** 
-[Hier stehen weitere Infos.](blog/2022/05/29/einladung-22-meetup.html)
+**Das nächste Meetup ist am Dienstag, 14. Juni 2022 um 18 Uhr im Campus Altes AKH (Hof 3) in Wien.** 
+[Hier gibts mehr Infos.](blog/2022/05/29/einladung-22-meetup.html)
 
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
