@@ -6,7 +6,7 @@ author: Jana Wiese
 categories: [Blog]
 ---
 
-![Einladung Podcast-Picknick](/img/meetup22-einladung-sharepic-lowres.jpg)
+![Einladung Podcast-Picknick](/img/meetup22-einladung-sharepic-lowres.jpg){: style="max-width: 100%"}
 
 Nach fast einem Jahr ist es wieder so weit: Das österreichische Podcasting-Meetup geht in die nächste Runde! Und zwar mit einem Picknick am **Dienstag, 14. Juni 2022 um 18 Uhr im Campus Altes AKH (Hof 3) in Wien**.
 
