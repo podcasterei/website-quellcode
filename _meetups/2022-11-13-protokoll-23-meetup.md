@@ -12,38 +12,38 @@ Das 23. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 
 ## ⚡-Talk: "Die gar nicht sooo furchtbaren RSS Feeds. Keine_r mag sie, jede:r braucht sie" - Stefan Haslinger ##
 
-![Stefan Haslinger beim Meetup](/img/m23/podcasterei-meetup2305web.jpg)
+![Stefan Haslinger beim Meetup](/img/m23/podcasterei-meetup2305web.jpg){:width="100%"}
 
 Stefan Haslinger podcastet bei [3 Schweinehunde](https://3-schweinehun.de/) und steht hinter der Podcast-Entdeckungsseite [Panoptikum.social](https://panoptikum.social/). In seinem Talk hat er erklärt, woraus ein RSS-Feed besteht und wofür er gut ist.
 
-![Sketchnotes zu Stefan Haslingers Talk](https://jasowieso.com/wp-content/uploads/2022/11/Meetup23-RSS-800px.jpg)
+![Sketchnotes zu Stefan Haslingers Talk](https://jasowieso.com/wp-content/uploads/2022/11/Meetup23-RSS-800px.jpg){:width="100%"}
 
 Sketchnotes von Jana Wiese ([jasowieso.com](https://jasowieso.com/2022/11/podcasting-meetup-23/))
 
 
 ## ⚡-Talk: "Werkstatt-Bericht: Wie eine Episode von GAG entsteht" - Richard Hemmer ##
 
-![Richard Hemmer beim Meetup](/img/m23/podcasterei-meetup2319web.jpg)
+![Richard Hemmer beim Meetup](/img/m23/podcasterei-meetup2319web.jpg){:width="100%"}
 
 Richard Hemmer podcastet gemeinsam mit Daniel Meßner, der früher auch im Meetup-Orga-Team war, bei [Geschichten aus der Geschichte](https://www.geschichte.fm/). Die beiden Historiker erzählen sich jede Woche eine Geschichte, er hat in seinem Talk beschrieben, wie er sich darauf vorbereitet. Tagesaktuell zu sein war nie ihr Ziel, zwei Drittel der Streams fallen auf den deshalb zeitlosen Backkatalog.
 
-![Sketchnotes zu Richard Hemmers Talk](https://jasowieso.com/wp-content/uploads/2022/11/Meetup23-GAG-800px.jpg)
+![Sketchnotes zu Richard Hemmers Talk](https://jasowieso.com/wp-content/uploads/2022/11/Meetup23-GAG-800px.jpg){:width="100%"}
 
 Sketchnotes von Jana Wiese ([jasowieso.com](https://jasowieso.com/2022/11/podcasting-meetup-23/))
 
 ## ⚡-Talk: "OH WOW" - Jeanne Drach ##
 
-![Jeanne Drach beim Meetup](/img/m23/podcasterei-meetup2322web.jpg)
+![Jeanne Drach beim Meetup](/img/m23/podcasterei-meetup2322web.jpg){:width="100%"}
 
 Jeanne Drach ist Gründerin von [OH WOW](https://www.ohwow.eu), in ihrem Talk hat sie berichtet, wie aus ihrem persönlichen Podcast-Projekt Jeanne's Welt ein ganzes Podcast-Label wurde.
 
-![Sketchnotes zu Jeanne Drachs Talk](https://jasowieso.com/wp-content/uploads/2022/11/Meetup23-OHWOW-800px.jpg)
+![Sketchnotes zu Jeanne Drachs Talk](https://jasowieso.com/wp-content/uploads/2022/11/Meetup23-OHWOW-800px.jpg){:width="100%"}
 
 Sketchnotes von Jana Wiese ([jasowieso.com](https://jasowieso.com/2022/11/podcasting-meetup-23/))
 
 ## ⏰ Vorstellungsrunde
 
-![Foto in die Runde](/img/m23/podcasterei-meetup2306web.jpg)
+![Foto in die Runde](/img/m23/podcasterei-meetup2306web.jpg){:width="100%"}
 
 Es waren 27 Teilnehmer:innen dabei, die sich jeweils in 30 Sekunden vorgestellt haben:
 
@@ -80,6 +80,6 @@ Es waren 27 Teilnehmer:innen dabei, die sich jeweils in 30 Sekunden vorgestellt 
 
 Ein Teil der Runde ging nach dem Programm-Teil noch gemeinsam Pizzaessen, danach entstand dieses Foto:
 
-![Gruppenfoto](/img/m23/podcasterei-meetup2326web.jpg)
+![Gruppenfoto](/img/m23/podcasterei-meetup2326web.jpg){:width="100%"}
 
 Schön wars, bis zum nächsten Mal! Wir nehmen übrigens gerne Vorschläge zu Themen und Speaker:innen für ⚡-Talks entgegen!
