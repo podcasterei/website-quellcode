@@ -10,11 +10,12 @@ categories: [Blog]
 
 ⚡ Diesmal im Programm:
 
-**Tagesteller - Interview-Podcast und Archiv der besonderen Speisen mit Wiener Senior:innen"**
+**"Tagesteller - Interview-Podcast und Archiv der besonderen Speisen mit Wiener Senior:innen"**
 
 Künstlerin [Steffi Parlow](https://steffiparlow.com/) über den Podcast, den sie gemeinsam mit Kirsten Borchert gestaltet.
 
-**TBA**
+**"Welches Equipment brauche ich _wirklich_, wenn ich einen Podcast starten will?**
+Aaron Olsacher [(Aufgedreht Audio)](https://www.aufgedreht-audio.at/) über die Basics der Podcast-Aufnahme: Wie produziert man/frau einen Podcast klanglich brauchbar? – oder wie erleichtert man sein/ihr Leben und das des Podcast-Producers?
 
 Drumherum geht es vor allem um die Vernetzung aller Teilnehmer:innen – Podcaster:innen und solche, die es noch werden wollen, Hörer:innen und alle, die sich für das Medium interessieren. Und alle, die Lust drauf haben, können sich und ihr(e) Projekte kurz (⏰) vorstellen.
 
