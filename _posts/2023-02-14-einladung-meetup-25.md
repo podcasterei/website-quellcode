@@ -14,9 +14,9 @@ categories: [Blog]
 
 Hari List liefert zum bereits 5. Mal Daten und (neue) Erkenntnisse aus seiner Datenbank über österreichische Podcasts.
 
-**"Welches Equipment brauche ich _wirklich_, wenn ich einen Podcast starten will?**
+**"Welches Equipment brauche ich _wirklich_, wenn ich einen Podcast starten will? Und was mache ich in der Postproduktion?**
 
-Aaron Olsacher [(Aufgedreht Audio)](https://www.aufgedreht-audio.at/) über die Basics der Podcast-Aufnahme: Wie produziert man/frau einen Podcast klanglich brauchbar? – oder wie erleichtert man sein/ihr Leben und das des Podcast-Producers?
+Aaron Olsacher [(Aufgedreht Audio)](https://www.aufgedreht-audio.at/) über die Basics der Podcast-Aufnahme: Wie produziert man/frau einen Podcast klanglich brauchbar? – oder wie erleichtert man sein/ihr Leben und das des Podcast-Producers? [Alexander Weller](http://www.alexanderweller.com/) über die Basics der Post-Produktion: Was ist eine DAW und welche sollte ich nehmen? Welche Plugins gibt es, was machen die und welche brauche ich wirklich? Wie schaut so ein "professioneller" Workflow aus?
 
 Drumherum geht es vor allem um die Vernetzung aller Teilnehmer:innen – Podcaster:innen und solche, die es noch werden wollen, Hörer:innen und alle, die sich für das Medium interessieren. Und alle, die Lust drauf haben, können sich und ihr(e) Projekte kurz (⏰) vorstellen.
 
