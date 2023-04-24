@@ -14,7 +14,11 @@ categories: [Blog]
 
 Adrian Spataru [(Cleanvoice AI)](https://cleanvoice.ai/) über die neuesten Fortschritte im Bereich der Künstlichen Intelligenz und deren Einsatz in der Audioproduktion: wie KI-Technologien von der Audio-Transkription bis hin zu Deepfakes die Branche verändern und welche Möglichkeiten sie bieten. Technische Vorkenntnisse sind nicht erforderlich!
 
-**tba**
+**"Werkstattbericht: Podcasts bei der "Presse"**
+
+Anna Wallner ist in der „Presse“ für Audioinhalte zuständig. 2019 hat sie auf eigene Faust mit dem ersten Podcast begonnen. Heute gibt es einen täglichen Nachrichtenpodcast und fünf weitere Podcasts. Anna hat im Printgeschäft begonnen, war viele Jahre CvD der „Presse am Sonntag“ - ihre Laufbahn zeigt besonders gut, wie sehr sich das Geschäft von Tageszeitungs-Medien gerade in den vergangenen fünf Jahren verändert hat.
+
+**Vernetzung**
 
 Drumherum geht es vor allem um die Vernetzung aller Teilnehmer:innen – Podcaster:innen und solche, die es noch werden wollen, Hörer:innen und alle, die sich für das Medium interessieren. Und alle, die Lust drauf haben, können sich und ihr(e) Projekte kurz (⏰) vorstellen.
 
