@@ -11,7 +11,7 @@ podcasts:
 
 Die Podcast Posse versteht sich als Freestyle Podcast-Projekt. Wir haben viele
 Ideen, streben die Vernetzung und Kooperation mit anderen Podcaster*innen an,
-und präsentieren als erste Produktion “Wiener Blut", den True Crime-Podcast von
+und präsentieren als erste Produktion “Wiener Blut”, den True Crime-Podcast von
 der schönen blauen Donau. Hinter der Podcast Posse, die ihr auch auf
 [Instagram](https://instagram.com/podcastpossevienna) und
 [Facebook](https://facebook.com/ThePodcastPosse) findet,

@@ -21,7 +21,7 @@ Jeanne Drach ([OH WOW](https://www.ohwow.eu/))
 
 Drumherum geht es vor allem um die Vernetzung aller Teilnehmer:innen – Podcaster:innen und solche, die es noch werden wollen, Hörer:innen und alle, die sich für das Medium interessieren. Und alle, die Lust drauf haben, können sich und ihr(e) Projekte kurz (⏰!) vorstellen.
 
-Wenn du dabei sein willst, schreib bitte eine E-Mail mit dem Betreff “Meetup 23" an mail@podcasterei.at, um dich anzumelden.
+Wenn du dabei sein willst, schreib bitte eine E-Mail mit dem Betreff “Meetup 23” an mail@podcasterei.at, um dich anzumelden.
 
 Wir freuen uns auf euch 🎧
 

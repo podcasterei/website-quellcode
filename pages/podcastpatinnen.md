@@ -58,7 +58,7 @@ beitragen, dass die lebendige Community im deutschsprachigen Raum noch größer,
 bunter und sichtbarer wird.
 
 Im [Sendegate](https://sendegate.de/c/einstieg-ins-podcasting/podcastpatinnen)
-sind wir als “Podcastpat:in" im Profil erkennbar.
+sind wir als “Podcastpat:in” im Profil erkennbar.
 
 Zum Team der Podcastpat_innen gehören in Österreich:
 
@@ -71,4 +71,4 @@ Zum Team der Podcastpat_innen gehören in Österreich:
 Als Podcastpat_innen wenden wir uns an nicht-kommerziell
 ausgerichtete Akteur_innen und Amateur_innen oder Privatpersonen, die einfach
 Spaß am Podcasten haben. Wir verstehen uns als Community-Projekt und sind keine
-“New Media Agentur".
+“New Media Agentur”.
