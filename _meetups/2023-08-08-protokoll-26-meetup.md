@@ -6,18 +6,18 @@ author: Jana Wiese, Anna Masoner
 categories: [Blog]
 ---
 
-![Teilnehmende des Meetups](/img/meetup26/meetup26-gruppe.jpg){:width=”100%”}
+![Teilnehmende des Meetups](/img/meetup26/meetup26-gruppe.jpg){:width="100%"}
 
 
 Das 26. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg Steinfelder, fand am 3. Mai 2023 im ORF-Funkhaus statt.
 
 ## ⚡-Talk: “Presse Play” - Anna Wallner ##
 
-![Anna Wallner](/img/meetup26/meetup26-anna-wallner.jpg){:width=”100%”}
+![Anna Wallner](/img/meetup26/meetup26-anna-wallner.jpg){:width="100%"}
 
 Anna Wallner, Leiterin des Debatten-Ressorts und Audio-Verantwortliche berichtete über Podcasts bei der Tageszeitung “Die Presse”. Gestartet wurden diese im September 2019 mit dem Format “18’48” und damit einer exakten Zeitvorgabe. 2020 folgten die “Corona Diaries”, seit 2021 gibt es den täglichen Newscast [“Was wichtig wird - Presse Play”](https://diepresse1848.podigee.io), und auch Advertorials zum Hören, von einem eigenen Team produziert. Diese seien beliebter als Werbespots und helfen bei der Finanzierung. “Die Presse zum Hören”, wo Autor_innen Gedrucktes vorlesen, sei nicht so beliebt wie die Podcasts selbst. Die Hörer_innen der Presse Podcasts sind eher männlich, und deutlich jünger als das Gesamtpublikum der Tageszeitung, und geben gerne Feedback.
 
-![Sketchnotes von Jana Wiese](/img/meetup26/Meetup26-presse-web.jpg){:width=”100%”}
+![Sketchnotes von Jana Wiese](/img/meetup26/Meetup26-presse-web.jpg){:width="100%"}
 
 ## Vorstellungsrunde ##
 
@@ -61,12 +61,12 @@ Jana Wiese ist Organisatorin des Meetups, produziert Podcasts bei [OHWOW](https:
 
 ## ⚡-Talk: “Die Zukunft der Audioproduktion: Wie KI Podcasting verändert” - Adrian Spataru ##
 
-![Adrian Spataru](/img/meetup26/meetup26-adrian.jpg){:width=”100%”}
+![Adrian Spataru](/img/meetup26/meetup26-adrian.jpg){:width="100%"}
 
 Adrian Spataru, Gründer von [Cleanvoice AI](https://cleanvoice.ai/) und Dozent für Machine Learning in Graz, erklärte wofür AI in der Audioproduktion genutzt werden kann. Sein Service kann zum Beispiel “ähs”, Stottern und Pausen automatisch entfernen.
 AI-Sound-Bearbeitung funktioniere so ähnlich wie Bilderkennungsalgorithmen, die auf Basis des Spektogramms der Tonaufnahme z.B. Störgeräusche “erkennt”.
 Für den Einsatz von AI in der Audioproduktion sieht Adrian Spataru neun Use Cases: 1. Voice Activity, 2. Speaker Diarization, 3 Emotionen, 4. Phonetik, 5. Hintergrundgeräusche, 6. Mixing/Mastering, 7. Audio-Separation, 8. Transkript, 9. Übersetzung mit Originalstimme aka “clone” Voices. In der Zukunft werde “assisted editing” wichtiger werden, wo AI-Services menschlichen Produzent_innen die repetitive Arbeit abnehmen, auch automatisches Sounddesign könnte bald brauchbar werden.
-![Sketchnotes von Jana Wiese](/img/meetup26/Meetup26-AI-web.jpg){:width=”100%”}
+![Sketchnotes von Jana Wiese](/img/meetup26/Meetup26-AI-web.jpg){:width="100%"}
 
 
 ## 🍕 Pizzaessen ##
@@ -74,7 +74,7 @@ Für den Einsatz von AI in der Audioproduktion sieht Adrian Spataru neun Use Cas
 Nach dem Programmteil waren wir wieder in der Pizza Riva.
 
 
-![In der Pizza](/img/meetup26/meetup26-pizza.jpg){:width=”100%”}
+![In der Pizza](/img/meetup26/meetup26-pizza.jpg){:width="100%"}
 
 
 
