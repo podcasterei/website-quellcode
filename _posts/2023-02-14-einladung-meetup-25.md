@@ -22,7 +22,7 @@ Drumherum geht es vor allem um die Vernetzung aller Teilnehmer:innen – Podcast
 
 🍕 Nach dem Programm-Teil wollen wir gemeinsam Pizza essen gehen.
 
-Wenn du dabei sein willst, schreib bitte eine E-Mail mit dem Betreff “Meetup 25” an mail@podcasterei.at, um dich anzumelden.
+Wenn du dabei sein willst, schreib bitte eine E-Mail mit dem Betreff “Meetup 25" an mail@podcasterei.at, um dich anzumelden.
 
 Wir freuen uns auf euch 🎧
 Jana, Anna und Georg

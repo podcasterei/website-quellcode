@@ -67,7 +67,7 @@ Sebastian Achleitner stellt das CBA vor: "Das ist der  größte Podcastanbieter 
 
 ## Breakoutsession:
 
-In der Breakout-Session wurden alle Teilnehmer:innen zufällig in Vierergruppen eingeteilt und konnten sich so ein paar Minuten lang in kleinerer Runde unterhalten. Conversation Starter war die Frage “Welche Podcastfolge hat dich zuletzt so richtig begeistert und warum?”.
+In der Breakout-Session wurden alle Teilnehmer:innen zufällig in Vierergruppen eingeteilt und konnten sich so ein paar Minuten lang in kleinerer Runde unterhalten. Conversation Starter war die Frage “Welche Podcastfolge hat dich zuletzt so richtig begeistert und warum?".
 
 ## ⚡-Talk: Bernhard Madlener von der [Podcastwelt](https://podcastwelt.at/) über "Podcasting 2021: Vom Hobby zum Business"
 

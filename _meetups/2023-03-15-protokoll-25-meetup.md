@@ -53,10 +53,10 @@ Zwanzig Podcast-Interessierte waren dabei:
 
 Aaron Olsacher ([aufgedreht audio](https://www.aufgedreht-audio.at/)) bot einen Überblick über die Grundlagen der Podcastaufnahme: Welcher Raum (möglichst viel Textil, keine glatten Flächen), welches Mikrofon (dynamisch meist besser als Kondensator, Nierencharakteristik), welcher Mikrofonständer (nix Riesiges, weil das bloß beim Gespräch stört), welches Aufnahmegerät (kleines reicht meistens, kein Grund sehr viel Geld für eine Rodecaster o.Ä. auszugeben), welche Kabel (am besten mit Wendelschirm), und welche Kopfhörer (auch nicht zwangsläufig die teuersten). Er empfahl, das Smartphone als Backup-Aufnahmegerät einzusetzen. Sein wichtigster Tipp: IMMER mit Kopfhörern mithören, weil man nur dann eingreifen kann, im Nachhinein ist es schwierig - "Garbage In Garbage Out".
 
-
 ![Aaron Olsacher](/img/m25/meetup25-9.jpg){:width="100%"}
 
 [Alexander Weller](http://www.alexanderweller.com/) schloss direkt mit einem "Postpro 101" an. Er rät stark von Audacity ab, für den günstigen/kostenlosen Einstieg empfahl er [Reaper](http://reaper.fm) (Anmerkung Jana: gibts auch explizit für Podcasting als [Ultraschall.fm](https://ultraschall.fm/)), Hindenburg und Audition sind teurer. Die wichtigsten sechs Schritte in der Postproduktion:
+
 1. Dateien sichten: ist alles da, passen alle Aufnahmen?
 2. Lautheit normalisieren
 3. Grober Schliff
