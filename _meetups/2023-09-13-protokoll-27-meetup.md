@@ -1,4 +1,4 @@
-![grafik](https://github.com/podcasterei/website-quellcode/assets/34399878/a28af8f9-9187-4133-80e3-db4c25c1a5f4)---
+---
 layout: post
 title:  "Protokoll Podcasting Meetup 27"
 date: 2023-09-13
