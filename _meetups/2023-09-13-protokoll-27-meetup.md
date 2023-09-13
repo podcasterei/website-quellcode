@@ -20,7 +20,7 @@ Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 -  Elena arbeitet bei der BOKU am Zentrum für globalen Wandel und Nachhaltigkeit und ist selbstständige Trainerin für Workshops und Seminare. Sie beschäftigt sich mit den Themen Nachhaltigkeit, Gender und Diversity, im Podcast [Vorstellungskraft](https://www.marolenasstimme.at/vorstellungskraft-podcast/) will sie die Frage "Wie schaut eine lebenswerte und gerechte Welt für uns alle aus" behandeln und positive Szearien aufmachen.
 -  Georg, Meetup-Organisator, hat den Podcast [mosaik.klima](https://www.steinfelder.at/mosaikklima/) gemacht, hat früher in der Redaktion von Radio FRO gearbeitet, ist Grafikdesigner und gestaltet die Bilder für die Podcasterei
 -  Jeanne hat 2019 die Podcastfirma [OHWOW](www.ohwow.eu) gegründet, podcastet seit 2017, ist Sängerin und Performerin bei der Band KidsNCats
--  Ruth ist ein Drittel des [Das Universum-Podcast](https://dasuniversum.podigee.io/) Astronomin und seit 2018 selbstständig als Wissenschaftsvermittlerin mit ihrem [mobilen Planetarium](https://mobilesplanetarium.wixsite.com/) unterwegs
+-  Ruth ist ein Drittel des [Das Universum-Podcast](https://dasuniversum.podigee.io/), Astronomin und seit 2018 selbstständig als Wissenschaftsvermittlerin mit ihrem [mobilen Planetarium](https://mobilesplanetarium.wixsite.com/) unterwegs
 -  [Alex](http://www.alexanderweller.com/) hat vor 7 Jahren im freien Radio angefangen, vor 6 Jahren in die deutsche Podcastbranche gewechselt und sich dann selbstständig gemacht. Gerade arbeitet er in Linz bei WePodit, wo er viele Businesspodcasts macht, in seinem Masterstudium beschäftigt er sich mit Metadaten im Radio, er macht auch interaktive Audiosachen und hat beim [25. Meetup](https://www.podcasterei.at/meetups/2023-03-15-protokoll-25-meetup.html) einen Lightning-Talk gehalten
 -  Florian hat als Astronom in Wien, Jena und Heidelberg gearbeitet, hat sich 2010 als Astronomie-Wissenschaftsvermittler selbstständig gemacht, zu bloggen begonnen und 2012 den Podcast [Sternengeschichten](https://sternengeschichten.podigee.io/) gestartet, 2020 dann [Das Universum](https://dasuniversum.podigee.io/), er ist außerdem im Science Busters Podcast und WRINT zu hören. Alle Podcasts, bei denen er beteiligt ist, sind independent werbefrei, nicht exklusiv und spendenfinanziert
 -  Eva ist auch ein Drittel von [Das Universum](https://dasuniversum.podigee.io/), außerdem macht sie [Cosmic Latte](https://cosmiclatte.podigee.io/)
@@ -30,7 +30,7 @@ Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 -  Jo ist Lichtplanerin im Verein Lichttechnische Gesellschaft, und will einen Podcast starten
 -  Elka macht mit Eva [Cosmic Latte](https://cosmiclatte.podigee.io/) und ist vor allem auf Instagram aktiv
 
-![Picknick](/meetup27-web.jpg){:width="100%"}
+![Picknick](/img/m27/meetup27-web.jpg){:width="100%"}
 
  ## Was besprochen wurde 
 
