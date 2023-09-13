@@ -9,7 +9,9 @@ categories: [Blog]
 
 Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg Steinfelder, fand am 6. September 2023 im Alten AKH statt. Weils ein Picknick war, gabs kein Programm abseits der Vorstellungsrunde.
 
-## Wer da war##
+![Picknick](/img/m27/meetup27-picknick-web.jpg){:width="100%"}
+
+## Wer da war
 
 - Jana, Meetup-Organisatorin, Podcast-Produzentin bei [OH WOW](www.ohwow.eu), ehemalige Radiojournalistin, schreibt an ihrer Masterarbeit zur Plattformisierung des Podcastingökosystems und in ihrer Freizeit das Foodblog [Zuckerbäckerei](www.zuckerbaeckerei.com)
 - Lothar unterrichtet für ein Jahr and der österreichischen Schule in Guatemala, davor war er Vortragender für physikalische Themen auf einem Kreuzfahrtschiff (aber: "ich find, Kreuzfahrt geht gar nicht!), seine [Podcast- und Radio-Aktivitäten](https://www.sprechkontakt.at/) waren in der Zwischenzeit auf Pause, bald gehts zurück nach Österreich und mit neuen Projekten weiter
@@ -28,25 +30,27 @@ Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 -  Jo ist Lichtplanerin im Verein Lichttechnische Gesellschaft, und will einen Podcast starten
 -  Elka macht mit Eva [Cosmic Latte](https://cosmiclatte.podigee.io/) und ist vor allem auf Instagram aktiv
 
- ## Was besprochen wurde ##
+![Picknick](/meetup27-web.jpg){:width="100%"}
 
- ### Podcasttypen/formate ###
+ ## Was besprochen wurde 
+
+ ### Podcasttypen/formate 
  - Florian podcastet alleine (Sternengeschichten) und mit Co-Hosts (Das Universum), wobei immer eine:r die Gesprächsführung übernimmt, um allgemeines Geplauder in Grenzen zu halten. Gäste einzuladen ist ihm zu viel Koordinationsaufwand für regelmäßiges Erscheinen
  - Elena findet, dass es hier kein richtig und falsch gibt, und jede:r so podcasten soll, wie es zu ihm/ihr passt
  - Doro podcastet mit zwei anderen (Das Universum in einer Keksdose), sie erzählen sich immer gegenseitig Geschichten, damit es wie ein Gespräch und nicht wie ein Interview klingt
  - Stefan empfiehlt ["Podcastpat_innen präsentieren: Podcast-Formate Podcasting für Anfänger", Talk von Daniel Meßner und Tine Nowak auf dem 33c3](https://media.ccc.de/v/33c3-399-podcastpat_innen_prasentieren_podcast-formate)
 
-### Hörspiele ###
+### Hörspiele 
 - Der deutschsprachige Raum hat eine große Hörspielkultur, Skandinavien ebenfalls
 - BBC R&D arbeitet in seinen Hörspielprojekten mit Smartphone-Sensordaten, erzählt Alex
 - "Out on the Wire" von Jessica Abel ist ein toller Comic über Radio-/Podcastproduktion (non-fiction)
 
-### KI-Transkripte ###
+### KI-Transkripte 
 - Hinweis auf Adrian Spatarus Lightning-Talk im [26. Meetup](https://www.podcasterei.at/meetups/2023-08-08-protokoll-26-meetup.html)
 - whisper lokal kostet nix, ist aber nicht ganz einfach zum Laufen zu bekommen
 - happyscribe geht ganz gut, ist aber nicht sonderlich günstig
 
-## Erwähnte/empfohlene Podcasts ##
+## Erwähnte/empfohlene Podcasts
 - "Die Gefragte Frau" von den Salzburger Nachrichten, Empfehlung von Lothar
 - neuer GEO-Podcast launcht mit Event in einer Sternwarte in Hamburg - Marketingbudget jenseits von allem, was man als Indie-Podcaster zusammenkriegt, Hinweis von Alex
 - RTL+ hat mal ein Reality-Format gemacht, in dem Jugendliche durch Europa reisen, Hinweis von Alex
