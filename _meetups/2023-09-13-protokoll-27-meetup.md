@@ -30,7 +30,7 @@ Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 -  Jo ist Lichtplanerin im Verein Lichttechnische Gesellschaft, und will einen Podcast starten
 -  Elka macht mit Eva [Cosmic Latte](https://cosmiclatte.podigee.io/) und ist vor allem auf Instagram aktiv
 
-![Picknick](/img/m27/meetup27-web.jpg){:width="100%"}
+![Teilnehmende](/img/m27/meetup27-web.jpg){:width="100%"}
 
  ## Was besprochen wurde 
 
@@ -51,7 +51,7 @@ Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 - happyscribe geht ganz gut, ist aber nicht sonderlich günstig
 
 ## Erwähnte/empfohlene Podcasts
-- "Die Gefragte Frau" von den Salzburger Nachrichten, Empfehlung von Lothar
+- ["Die Gefragte Frau"](https://www.sn.at/snin/podcast) von den Salzburger Nachrichten, Empfehlung von Lothar
 - neuer GEO-Podcast launcht mit Event in einer Sternwarte in Hamburg - Marketingbudget jenseits von allem, was man als Indie-Podcaster zusammenkriegt, Hinweis von Alex
 - RTL+ hat mal ein Reality-Format gemacht, in dem Jugendliche durch Europa reisen, Hinweis von Alex
 - "Sexologisch" von einer oberösterreichischen Podcasterin, Empfehlung von Doro
@@ -62,8 +62,8 @@ Das 27. Podcasting Meetup, organisiert von Jana Wiese, Anna Masoner und Georg St
 - "Boys Club", Empfehlung von Elena
 - "Wer hat Angst vorm Drachenlord", Empfehlung von Georg
 - ["Die Geschichte der Ascherschwestern" Ö1](https://oe1.orf.at/artikel/702647/Die-Geschichte-der-Ascher-Schwestern), mit original score und ruhig erzählt, Empfehlung von Gerog
-- "Scambit" toll gemachter, Gen-Z-orientierter Schachpodcast, Empfehlung von Jana
-- "My Dad wrote a porno"; Empfehlung von Alex
+- ["Scambit"](https://www.ardaudiothek.de/sendung/scambit-schach-hype-und-millionen/12493605/) toll gemachter, Gen-Z-orientierter Schachpodcast, Empfehlung von Jana
+- "My Dad wrote a porno", Empfehlung von Alex
 - ["Stellar Firma"](https://podcasts.apple.com/us/podcast/stellar-firma/id1451762036), Weltall-Impro, Empfehlung von Alex
 - "Hello from the Magic Tavern", Empfehlung von Alex
 - ["No such thing as fish"](https://www.nosuchthingasafish.com/) von einem britischen Quiz-Show-Autor:innen-Team, Empfehlung von Alex
