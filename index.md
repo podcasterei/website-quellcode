@@ -32,8 +32,8 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup ist am Mittwoch, 6. September 2023 um 18 Uhr - als Picknick im Campus Altes AKH (Hof 3) in Wien.**
-[Hier gibts mehr Infos zum Programm und zur Anmeldung.](blog/2023/08/08/einladung-meetup-27.html)
+**Das nächste Meetup ist am Freitag, 10. November abends im ORF-Funkhaus in Wien.**
+[Hier gibts mehr Infos zum Programm und zur Anmeldung.](blog/2023/10/02/einladung-meetup-28.html)
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
