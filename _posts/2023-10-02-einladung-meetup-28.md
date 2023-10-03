@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Einladung zum 28. Podcasting Meetup"
-date: 2023-08-02
+date: 2023-10-02
 author: Jana Wiese
 categories: [Blog]
 ---
