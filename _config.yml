@@ -21,5 +21,9 @@ collections:
 defaults:
   - scope:
       type: people
+      path: "_people"
     values:
       layout: person
+
+plugins:
+  - jekyll-feed
