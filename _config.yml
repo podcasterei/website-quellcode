@@ -2,28 +2,26 @@ title: Podcasterei
 email: stefan.haslinger@informatom.com
 subtitle: Das Podcasting Meetup Österreich
 description: Das Podcasting Meetup Österreich
-baseurl: ""
-url: "https://www.podcasterei.at"
+baseurl: ''
+url: 'https://www.podcasterei.at'
 twitter_username: podcasterei
-github_username:  podcasterei
-
-# Build settings
+github_username: podcasterei
 markdown: kramdown
 monthly_archive:
-  path: "archiv"
-
+  path: archiv
 collections:
   meetups:
     output: true
   people:
     output: true
-
 defaults:
   - scope:
       type: people
-      path: "_people"
+      path: _people
     values:
       layout: person
-
-plugins:
-  - jekyll-feed
+jekyll_admin:
+  homepage: "posts"
+  hidden_links: 
+    - datafiles
+    - configuration
