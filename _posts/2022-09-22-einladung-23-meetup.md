@@ -11,7 +11,7 @@ categories: [Blog]
 ⚡ Diesmal im Programm:
 
 **"Die gar nicht sooo furchtbaren RSS Feeds. Keine:r mag sie, jede:r braucht sie"**
-Stefan Haslinger ([3 Schweinehunde](https://3-schweinehun.de/), [Panoptikum.io](https://panoptikum.io/))
+Stefan Haslinger ([3 Schweinehunde](https://3-schweinehun.de/), [Panoptikum.social](https://panoptikum.social/))
 
 **"Werkstatt-Bericht: Wie eine Episode von GAG entsteht"**
 Richard Hemmer ([Geschichten aus der Geschichte](https://www.geschichte.fm/))

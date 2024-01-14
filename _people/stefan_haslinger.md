@@ -46,6 +46,6 @@ wollte, da Daniel nach Hamburg zog. So bin ich nun seit Sommer 2016 Teil de
 Organisationsteams des Podcasting Meetup und auch Mitgestalter dieser Seiten.
 
 Im Spätsommer 2016 habe ich dann noch mit einem weiteren Podcast-bezogenen
-Projekt angefangen: [Panoptikum](https://www.panoptikum.io). Es handelt sich
+Projekt angefangen: [Panoptikum](https://www.panoptikum.social). Es handelt sich
 dabei um ein Podcast-Schaufenster, aber lies doch einfach selbst auf der
-Webseite des [Projektes](https://alpha.panoptikum.io)!
+Webseite des [Projektes](https://alpha.panoptikum.social)!

@@ -23,7 +23,7 @@ vorgekommen ist.
 * [Google Play Music](https://support.google.com/googleplaymusic/answer/6343833?hl=de)
 * [gpodder.net](https://www.gpodder.net/)
 * [Listen Notes](https://www.listennotes.com/)
-* [Panoptikum](https://panoptikum.io/) - disclaimer: entwickelt und betrieben von
+* [Panoptikum](https://panoptikum.social/) - disclaimer: entwickelt und betrieben von
   [Stefan](/people/stefan_haslinger.html)
 * [Podcast.at](http://www.podcast.at/)
 * [Podcast.de](https://www.podcast.de/)

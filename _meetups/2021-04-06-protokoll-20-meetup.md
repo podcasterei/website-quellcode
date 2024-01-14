@@ -40,7 +40,7 @@ Es waren 36 Podcaster:innen dabei, die sich reihum in jeweils 36 Sekunden vorges
 * Nicole Nikolaidou arbeitet beim [FaltenrockFM](https://www.caritas-pflege.at/wien/aktuell/faltenrock-fm/)-Podcast mit
 * Georg Steinfelder arbeitet in der Inforedaktion von Radio FRO und podcastet bei [Mosaik:.:Klima](https://www.fro.at/mosaik%C2%B7-%C2%B7-klima-verantwortung/)
 * Jeanne Drach ist Musikerin, Podcasterin bei [Jeanne's Heldinnen](https://www.ohwow.eu/jeannes-heldinnen), Gründerin des Podcastlabels [OH WOW](https://www.ohwow.eu/) und vermietet ihr Podcaststudio an andere Podcaster:innen
-* Stefan Haslinger betreibt die Podcastdatenbank [panoptikum.io](https://panoptikum.io/), hat mehrere Podcasts, darunter den Laufpodcast [3 Schweinehunde](https://3-schweinehun.de/) und gemeinsam mit Matthias Bendel den [IT-Keller](https://it-keller.at/podcast), wo die beiden dokumentieren, wie sie einen Computer bauen
+* Stefan Haslinger betreibt die Podcastdatenbank [panoptikum.social](https://panoptikum.social/), hat mehrere Podcasts, darunter den Laufpodcast [3 Schweinehunde](https://3-schweinehun.de/) und gemeinsam mit Matthias Bendel den [IT-Keller](https://it-keller.at/podcast), wo die beiden dokumentieren, wie sie einen Computer bauen
 * Momo Kunishio ist Chefredakteurin des freien Webradios [Radio Campus](https://www.univie.ac.at/radiocampus/) der Uni Wien und hört sehr gerne Podcasts
 * Cornelia Fiechtl ist Ernährungspsychologin und macht den Podcast [Achtsam Essen](https://achtsam-essen.at/)
 * Stephanie de la Barra macht den Hörspielpodcast [Sagenhaft - Gute Nacht Geschichten für Erwachsene](https://sagenhaft-gute-nacht-geschichten-fur-erwachsene.simplecast.com/)
