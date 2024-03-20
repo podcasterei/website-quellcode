@@ -17,9 +17,25 @@ Dann bist Du hier genau richtig. Wir sind eine Gruppe von netten Leuten, die
 begeistert eine Podcastepisode nach der anderen veröffentlichen, neue Formate
 erfinden und uns über Storytelling, die neueste Aufnahmetechnik und die gefinkeltsten Publikationsstrategien austauschen.
 
+## Newsletter
+
+Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekommen willst, [melde dich hier zu unserem Newsletter an](https://mailchi.mp/76fec42dc180/podcasterei-newsletter).
+
+
+## Meetups und Aktivitäten
+
+Wir veranstalten gemeinsam Meetups,
+fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
+
+**Das nächste Meetup ist am Dienstag, 23. April 2024 um 19 Uhr im DEPOT (Breite Gasse 3, 1070 Wien)**
+[Hier gibts mehr Infos zum Programm und zur Anmeldung.](blog/2024/03/21/einladung-meetup-29.html)
+
+Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
+[Podcaster:innen](/podcasterinnen) vor.
+
 ## Ziele
 
-Wir möchten in einer möglichst großen Gruppe von Gleichgesinnten  unsere Ideen
+Wir möchten in einer möglichst großen Gruppe von Gleichgesinnten unsere Ideen
 austauschen und unsere Begeisterung teilen.
 
 Aller Anfang ist schwer, und das betrifft ganz besonders auch die beiden oben
@@ -27,25 +43,10 @@ angeführten Punkte: Audioproduktion und -veröffentlichung. Wir helfen
 Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 [Podcastpat:innen](podcastpatinnen) in Kontakt.
 
-## Aktivitäten
-
-Wir veranstalten gemeinsam Meetups,
-fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
-
-**Das nächste Meetup ist am Freitag, 10. November abends im ORF-Funkhaus in Wien.**
-[Hier gibts mehr Infos zum Programm und zur Anmeldung.](blog/2023/10/02/einladung-meetup-28.html)
-
-Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
-[Podcaster:innen](/podcasterinnen) vor.
-
 ## ... und online?
 
 Es gibt den Twitter Account [@podcasterei](https://twitter.com/podcasterei), auf dem wir auch Veranstaltungstipps geben und Interessantes für die österreichische
 Podcastingszene teilen. Auf Instagram findest du uns ebenfalls unter [@podcasterei](https://instagram.com/podcasterei).
-
-## Newsletter
-
-Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekommen willst, [melde dich hier zu unserem Newsletter an](https://mailchi.mp/76fec42dc180/podcasterei-newsletter).
 
 ## Code of Conduct
 
