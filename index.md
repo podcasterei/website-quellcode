@@ -28,7 +28,7 @@ Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
 **Das nächste Meetup ist am Dienstag, 23. April 2024 um 19 Uhr im DEPOT (Breite Gasse 3, 1070 Wien)**
-[Hier gibts mehr Infos zum Programm und zur Anmeldung.](blog/2024/03/21/einladung-meetup-29.html)
+[Hier gibts mehr Infos zum Programm und zur Anmeldung.](blog/2024/04/21/einladung-meetup-29.html)
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
