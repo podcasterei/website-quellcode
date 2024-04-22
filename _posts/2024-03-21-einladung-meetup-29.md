@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Einladung zum 29. Podcasting Meetup"
-date: 2024-03-21
+date: 2024-04-21
 author: Jana Wiese
 categories: [Blog]
 ---
 
-Am Dienstag, 23. April 2024 Uhr findet das 29. Podcasting Meetup statt, im [Depot](https://depot.or.at/) (Breite Gasse 3, 1070 Wien), das uns freundlicherweise seine Räumlichkeiten zur Verfügung stellt. Wenn du Podcaster:in bist, gerne einen Podcast starten würdest und/oder begeisterte Hörer:in bist, komm vorbei! 
+Am Dienstag, 23. April 2024 um 19 Uhr findet das 29. Podcasting Meetup statt, im [Depot](https://depot.or.at/) (Breite Gasse 3, 1070 Wien), das uns freundlicherweise seine Räumlichkeiten zur Verfügung stellt. Wenn du Podcaster:in bist, gerne einen Podcast starten würdest und/oder begeisterte Hörer:in bist, komm vorbei! 
 
 **⚡-Talk-Programm:**
 
