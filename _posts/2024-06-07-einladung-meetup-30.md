@@ -4,6 +4,9 @@ title:  "Einladung zum 30. Podcasting Meetup"
 date: 2024-06-07
 author: Jana Wiese
 categories: [Blog]
+---
+
+<img src="/img/meetup30-einladung.jpg" width=100%>
 
 **Am Dienstag, 25. Juni um 18 Uhr treffen wir uns zum alljährlichen Podcast-Picknick im Campus Altes AKH (Hof 3) in Wien.**
 
