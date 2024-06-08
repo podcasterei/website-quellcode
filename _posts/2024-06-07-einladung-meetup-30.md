@@ -6,7 +6,7 @@ author: Jana Wiese
 categories: [Blog]
 ---
 
-<img src="/img/meetup30-einladung.jpg" width=100%>
+<img src="/img/meetup30-einladung.jpg" width="100%">
 
 **Am Dienstag, 25. Juni um 18 Uhr treffen wir uns zum alljährlichen Podcast-Picknick im Campus Altes AKH (Hof 3) in Wien.**
 
@@ -16,7 +16,7 @@ Wenn du Podcaster:in bist, gerne einen Podcast starten würdest und/oder begeist
 
 ⛈️ Bei Schlechtwetter entfällt das Picknick leider. Infos dazu spätestens am Tag der Veranstaltung per Newsletter und Social Media.⛈️
 
-Wir bitten um kurze Anmeldung per E-Mail an mail@podcasterei.at
+Wir bitten um kurze Anmeldung per E-Mail an <mailto:mail@podcasterei.at>
 
 Wir freuen uns auf dich!
 
