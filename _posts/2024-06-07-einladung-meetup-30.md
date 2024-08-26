@@ -16,7 +16,7 @@ Wenn du Podcaster:in bist, gerne einen Podcast starten würdest und/oder begeist
 
 ⛈️ Bei Schlechtwetter entfällt das Picknick leider. Infos dazu spätestens am Tag der Veranstaltung per Newsletter und Social Media.⛈️
 
-Wir bitten um kurze Anmeldung per E-Mail an <mailto:mail@podcasterei.at>
+Wir bitten um kurze Anmeldung per E-Mail an [mail@podcasterei.com](mailto:mail@podcasterei.at)
 
 Wir freuen uns auf dich!
 
