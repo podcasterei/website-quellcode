@@ -27,8 +27,8 @@ Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekom
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup ist am Dienstag, 25. Juni um 18 Uhr im Campus Altes AKH (Hof 3) in Wien**
-[Hier gibts mehr Infos zum Temin und zur Anmeldung.](blog/2024/06/07/einladung-meetup-30.html)
+**Das nächste Meetup ist am Mittwoch, 11. September um 18 Uhr im Campus Altes AKH (Hof 3) in Wien**
+[Hier gibts mehr Infos zum Temin und zur Anmeldung.](blog/2024/08/26/einladung-meetup-31.html)
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
