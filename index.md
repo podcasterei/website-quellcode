@@ -27,7 +27,7 @@ Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekom
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup ist am Mittwoch, 6. November 2024 um 19 Uhr im Depot (Breite Gasse 3, 1070 Wien)**. Genauere Infos zum Programm folgen!
+**Das nächste Meetup ist am Mittwoch, 6. November 2024 um 19 Uhr im Depot (Breite Gasse 3, 1070 Wien)**. [Genauere Infos zu Programm und Anmeldung findest du hier](https://www.podcasterei.at/blog/2024/10/07/einladung-meetup-32.html)!
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
