@@ -47,7 +47,7 @@ vorstellten:
 26. **Anita** -- interessiert am Thema Finanzierung
 27. **Maria** -- gerade Konsumentin, früher Podcast über soziale Themen [„Sozialpod"](https://www.sozialpod.com/)
 28. **Lena** -- [„Porzellanfuhre"](https://www.porzellanfuhre.at/) Podcast, interessiert an Vernetzung
-29. **Hartmuth** -- unterstützt „Porzellanfuhre" auf technischer Seite
+29. **Arthur** -- [Web Develpoer](https://www.utor.at/)unterstützt „Porzellanfuhre" auf technischer Seite
 30. **Nina** -- [Podcastproduzentin](https://www.ohwow.eu/), arbeitet für andere Podcasts
 
 ## Geschäftsmodell Kulturpodcast: Wie wir es machen - Iris Borovčnik
