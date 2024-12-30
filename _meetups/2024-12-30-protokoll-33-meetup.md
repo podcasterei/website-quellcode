@@ -10,7 +10,7 @@ categories: [Blog]
 
 Am Donnerstag, 12.12.2024 haben wir uns zum 33. Podcasting-Meetup, dem jährlichen Podcast-Punsch am Weihnachtsmarkt im Alten AKH getroffen.
 
-<img src="https://github.com/user-attachments/assets/812d5bb4-1f80-414b-93fd-3377d62d15d1" style="max-width: 100%;" alt="33. Meetup am Weihnachtsmarkt im Alten AKH>
+<img src="https://github.com/user-attachments/assets/812d5bb4-1f80-414b-93fd-3377d62d15d1" style="max-width: 100%" alt="33. Meetup am Weihnachtsmarkt im Alten AKH>
 
 ## Podcast-Moment 2024
 
@@ -25,7 +25,7 @@ Wir haben in kleiner Runde unsere besten Podcast-Momente des Jahres geteilt:
 - **Thorina**: Erkenntis "Ich könnt selber einen Podcast machen!"
 - **Klebemonster**: Castropod gelöscht, weil Speicher gecrashed
 - **Stefan**: Die Meetups
-- **Aaron**:
+- **Aaron**: die coolen Workshops, die ich geben durfte, v.a. der am [Ö3-Podcast-Festival](https://oe3podcastfestival.at/#lineup2024-15)
 
 ## Was sonst so besprochen wurde:
 
