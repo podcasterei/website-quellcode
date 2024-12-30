@@ -10,7 +10,7 @@ categories: [Blog]
 
 Am Donnerstag, 12.12.2024 haben wir uns zum 33. Podcasting-Meetup, dem jährlichen Podcast-Punsch am Weihnachtsmarkt im Alten AKH getroffen.
 
-<img src="https://github.com/user-attachments/assets/812d5bb4-1f80-414b-93fd-3377d62d15d1" style="max-width: 100%" alt="33. Meetup am Weihnachtsmarkt im Alten AKH>
+<img src="https://github.com/user-attachments/assets/812d5bb4-1f80-414b-93fd-3377d62d15d1" style="max-width: 100%" alt="33. Meetup am Weihnachtsmarkt im Alten AKH">
 
 ## Podcast-Moment 2024
 
