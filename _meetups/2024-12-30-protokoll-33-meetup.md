@@ -10,14 +10,14 @@ categories: [Blog]
 
 Am Donnerstag, 12.12.2024 haben wir uns zum 33. Podcasting-Meetup, dem jährlichen Podcast-Punsch am Weihnachtsmarkt im Alten AKH getroffen.
 
-<img src="" style="max-width: 100%;" alt="33. Meetup am Weihnachtsmarkt im Alten AKH>
+<img src="https://github.com/user-attachments/assets/812d5bb4-1f80-414b-93fd-3377d62d15d1" style="max-width: 100%;" alt="33. Meetup am Weihnachtsmarkt im Alten AKH>
 
 ## Podcast-Moment 2024
 
 Wir haben in kleiner Runde unsere besten Podcast-Momente des Jahres geteilt:
 
 - **Tari**: ["Judging Amanda Knox"](https://judging-amanda-knox.podigee.io/) auf ein Mal durch ge-binged
-- **Jana**: [Besuch in den NPR-Studios von KUOW in Seattle](https://zuckerbaeckerei.com/2024/10/fjum-summer-school-solutions-journalism-an-der-university-of-washington/#kuow), Podcastkonferenz ["So many voices"](https://jasowieso.com/2024/11/so-many-voices-podcast-konferenz-muenchen/), Lieblingspodcast "I Will Survive"(https://www.br.de/mediathek/podcast/i-will-survive-der-kampf-gegen-die-aids-krise/912)
+- **Jana**: [Besuch in den NPR-Studios von KUOW in Seattle](https://zuckerbaeckerei.com/2024/10/fjum-summer-school-solutions-journalism-an-der-university-of-washington/#kuow), Podcastkonferenz ["So many voices"](https://jasowieso.com/2024/11/so-many-voices-podcast-konferenz-muenchen/), Lieblingspodcast ["I Will Survive"](https://www.br.de/mediathek/podcast/i-will-survive-der-kampf-gegen-die-aids-krise/912)
 - **Valentin**: Start von ["Business WTF"](https://www.business-wtf.com/) und neue Folgen von ["Raabe und Kampf"](https://podcasts.apple.com/de/podcast/raabe-kampf/id1462911339)
 - **Katharina**: ["Klenk und Reiter"](https://www.falter.at/podcasts/gerichtsmedizin) über Gerichtsmedizin
 - **Magdalena**: Idee für eigenen Podcast (noch geheim!)
