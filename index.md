@@ -27,7 +27,7 @@ Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekom
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup ist am Donnerstag, 12. Dezember 2024 ab 18 Uhr am Weihnachtsmarkt am Campus Altes AKH**. Genauere Infos folgen.
+**Es gibt noch keinen Termin fürs nächste Meetup.**[Hier kannst du das Protokoll zum letzten Treffen am 12.12.24 nachlesen.](https://www.podcasterei.at/meetups/2024-12-30-protokoll-33-meetup.html)
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
