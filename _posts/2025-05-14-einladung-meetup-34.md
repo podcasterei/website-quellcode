@@ -10,7 +10,7 @@ categories: [Blog]
 
 Lang hats gedauert, aber jetzt ist es wieder so weit: 
 
-**Am Mittwoch, 4. Juni um 18 Uhr ist wieder Podcasterei-Meetup! Und zwar als lockeres Picknick im Alten AKH (Hof 3).**
+**Am Mittwoch, 4. Juni um 18 Uhr ist wieder Podcasterei-Meetup! Und zwar als lockeres Picknick im Alten AKH (Hof 3).** Bei Regenwetter wechseln wir ins Café Negroni (ehemals Gagarin, Garnisongasse 24, 1090 Wien), aktuelle Infos dann im Newsletter und auf [Instagram](https://www.instagram.com/podcasterei/)⛈️ 
 
 Wenn du Podcaster:in bist, gerne einen Podcast starten würdest und/oder begeisterte_r Hörer:in bist, komm vorbei! 
 
