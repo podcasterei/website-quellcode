@@ -27,7 +27,7 @@ Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekom
 Wir veranstalten gemeinsam Meetups,
 fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup findet am Mittwoch, 4. Juni 2025 um 18 Uhr als Picknick im Alten AKH (Hof 3) statt. [Mehr Infos zum 34. Podcasterei Meetup hier](https://www.podcasterei.at/blog/2025/05/14/einladung-meetup-34.html).
+**Das nächste Meetup findet am Mittwoch, 4. Juni 2025 um 18 Uhr als Picknick im Alten AKH (Hof 3) statt, wenn es regnet, treffen wir uns stattdessen im Café Negroni (ehemals Gagarin, Garnisongasse 24, 1090 Wien). [Mehr Infos zum 34. Podcasterei-Meetup hier](https://www.podcasterei.at/blog/2025/05/14/einladung-meetup-34.html).
 
 ** [Hier kannst du das Protokoll zum letzten Treffen am 12.12.24 nachlesen.](https://www.podcasterei.at/meetups/2024-12-30-protokoll-33-meetup.html)
 
