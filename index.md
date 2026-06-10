@@ -24,12 +24,11 @@ Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekom
 
 ## Meetups und Aktivitäten
 
-Wir veranstalten gemeinsam Meetups,
-fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
+Wir veranstalten seit mittlerweile mehr als zehn Jahren gemeinsam Meetups, fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup findet am Mittwoch, 4. Juni 2025 um 18 Uhr als Picknick im Alten AKH (Hof 3) statt, wenn es regnet, treffen wir uns stattdessen im Café Negroni (ehemals Gagarin, Garnisongasse 24, 1090 Wien). [Mehr Infos zum 34. Podcasterei-Meetup hier](https://www.podcasterei.at/blog/2025/05/14/einladung-meetup-34.html).
+**Das nächste Meetup findet am Donnerstag, 9. Juli um 18 Uhr im Johannessaal der Österreichischen Akademie der Wissenschaften (Dr. Ignaz-Seipel-Platz 2, 1010 Wien - 1. Stock)** statt. [Mehr Infos zum 35. Podcasterei-Meetup hier](https://www.podcasterei.at/blog/2026/06/10/einladung-meetup-35.html).
 
-** [Hier kannst du das Protokoll zum letzten Treffen am 12.12.24 nachlesen.](https://www.podcasterei.at/meetups/2024-12-30-protokoll-33-meetup.html)
+[Hier kannst du das Protokoll zum vorletzten Treffen am 12.12.24 nachlesen.](https://www.podcasterei.at/meetups/2024-12-30-protokoll-33-meetup.html)
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
@@ -46,8 +45,7 @@ Anfänger:innnen gerne weiter und bringen sie mit einer:m Mitwirkenden des
 
 ## ... und online?
 
-Es gibt den Twitter Account [@podcasterei](https://twitter.com/podcasterei), auf dem wir auch Veranstaltungstipps geben und Interessantes für die österreichische
-Podcastingszene teilen. Auf Instagram findest du uns ebenfalls unter [@podcasterei](https://instagram.com/podcasterei).
+Auf Instagram findest du uns unter [@podcasterei](https://instagram.com/podcasterei).
 
 ## Code of Conduct
 
