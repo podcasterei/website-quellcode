@@ -26,9 +26,9 @@ Wenn du Einladungen für zukünftige Podcasterei-Meetups direkt per E-Mail bekom
 
 Wir veranstalten seit mittlerweile mehr als zehn Jahren gemeinsam Meetups, fahren auf Podcastingkonferenzen und haben auch schon eine Unkonferenz veranstaltet.
 
-**Das nächste Meetup findet am Donnerstag, 9. Juli um 18 Uhr im Johannessaal der Österreichischen Akademie der Wissenschaften (Dr. Ignaz-Seipel-Platz 2, 1010 Wien - 1. Stock)** statt. [Mehr Infos zum 35. Podcasterei-Meetup hier](https://www.podcasterei.at/blog/2026/06/10/einladung-meetup-35.html).
+**Das nächste Meetup findet am Donnerstag, 10. September um 18 Uhr als Picknick** statt, genauere Infos folgen.
 
-[Hier kannst du das Protokoll zum vorletzten Treffen am 12.12.24 nachlesen.](https://www.podcasterei.at/meetups/2024-12-30-protokoll-33-meetup.html)
+[Hier kannst du das Protokoll zum vergangenen Treffen am 09.07.2026 nachlesen.](https://www.podcasterei.at/meetups/2026-07-14-protokoll-35-meetup.html)
 
 Wer sind wir? Alle von uns, die das möchten, stellen sich im Bereich der
 [Podcaster:innen](/podcasterinnen) vor.
