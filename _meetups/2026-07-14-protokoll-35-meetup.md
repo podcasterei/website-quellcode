@@ -10,7 +10,7 @@ categories: [Blog]
 
 Am Donnerstag, 9. Juli 2026 haben wir uns zum 35. Podcast-Meetup im außerordentlich hübschen Johannessaal der ÖAW getroffen – hier nochmal ein großes Danke, dass wir diesen Raum nutzen durften! Auf dem Programm standen zwei Lightning-Talks und eine große Vorstellungsrunde.
 
-<img src="img/meetup35-01.jpg" style="max-width: 100%" alt="Tari und Jana bei der Begrüßung">
+<img src="https://www.podcasterei.at/img/meetup35-01.jpg" style="max-width: 100%" alt="Tari und Jana bei der Begrüßung">
 
 ## Julia Ritter (ÖAW): Science und Fiction – Wie macht man einen narrativen Wissenschaftspodcast?
 
@@ -28,7 +28,7 @@ Als Tipp teilt sie die Metapher der "Zwiebel der Wissenschaftskommunikation" von
 
 ## Vorstellungsrunde
 
-<img src="img/meetup35-05.jpg" style="max-width: 100%" alt="Vorstellungsrunde">
+<img src="https://www.podcasterei.at/img/meetup35-05.jpg" style="max-width: 100%" alt="Vorstellungsrunde">
 
 Es waren 32 Podcast-Interessierte dabei, die sich und ihr(e) Projekt(e) kurz vorstellten:
 
@@ -67,7 +67,7 @@ Es waren 32 Podcast-Interessierte dabei, die sich und ihr(e) Projekt(e) kurz vor
 
 ## Lukas Maier (auphonic): Trocken mag ich nur Wein - Authentische statt perfekter Podcasts
 
-<img src="img/meetup35-02.jpg" style="max-width: 100%" alt="Lukas bei seinem Lightning-Talk">
+<img src="https://www.podcasterei.at/img/meetup35-02.jpg" style="max-width: 100%" alt="Lukas bei seinem Lightning-Talk">
 
 Lukas Maier ist Audio Engineer in der Software-Entwicklung bei Auphonic, produziert Musik und hört sehr gerne Podcasts. Er beobachtet, dass die Qualität von Podcasts in den vergangenen Jahren immer besser wurde, denn erstens gibt es bessere Tools, zweitens sind sie billiger und drittens gibt es immer mehr Info dazu. Perfekte Audioqualität (Studioaufnahmen mit tollen Mikros, perfektem EQ und Kompressor) sind also immer zugänglicher, die Frage ist nur, ob das die perfekte Qualität für deinen Podcast ist. Er zeigt, wie ein Denoiser fast allen Straßenlärm von einer Aufnahme entfernen kann – doch das Gefühl des Straßenlärms geht damit auch verloren. 
 
