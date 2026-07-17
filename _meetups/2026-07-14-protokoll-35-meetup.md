@@ -14,7 +14,7 @@ Am Donnerstag, 9. Juli 2026 haben wir uns zum 35. Podcast-Meetup im außerordent
 
 ## Julia Ritter (ÖAW): Science und Fiction – Wie macht man einen narrativen Wissenschaftspodcast?
 
-<img src="img/meetup35-03.jpg" style="max-width: 100%" alt="Julia bei ihrem Lightning-Talk">
+<img src="https://www.podcasterei.at/img/meetup35-03.jpg" style="max-width: 100%" alt="Julia bei ihrem Lightning-Talk">
 
 Julia Ritter vom ÖAW-Kommunikationsteam hatte vor drei Jahren die Idee für einen narrativen Wissenschaftspodcast. [Hiccup. Per Schluckauf durch die Zeit](https://www.oeaw.ac.at/hiccup) ging schließlich im Juli 2025 online. In der ersten Staffel wird eine fiktive Zeitreisende ins Jahr 1492 geschickt, verschiedene Wissenschaftler:innen der ÖAW erklären ihr z. B., ob sie ihr Handy im Mittelalter selber laden kann, oder ob sie Angst haben muss, sich mit der Pest anzustecken. In der zweiten Staffel wird es um die Antike gehen, in der Zwischenzeit gibt es Interviewfolgen.
 
